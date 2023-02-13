@@ -1,0 +1,7 @@
+Clone and continue dev:
+    
+    -   Only needs cloning repository for continue dev, use next code:
+    
+    RUN git clone https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git
+
+Note: Use Fine-grained personal access tokens (New and Beta - 12/02/2023)
