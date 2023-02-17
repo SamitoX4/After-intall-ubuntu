@@ -1,0 +1,12 @@
+{
+	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Additional extensions to the global devcontainer file.
+			"extensions": [
+				"Angular.ng-template"
+			],
+		}
+	},
+}

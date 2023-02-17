@@ -1,0 +1,60 @@
+{
+	// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			// Add the IDs of extensions you want installed when the container is created.
+			"extensions": [
+				"dbaeumer.vscode-eslint",
+				"mongodb.mongodb-vscode",
+				"ms-vscode-remote.remote-containers",
+				"GraphQL.vscode-graphql-syntax",
+				"Equinusocio.vsc-material-theme-icons",
+				"mhutchie.git-graph",
+				"cschleiden.vscode-github-actions",
+				"GitHub.vscode-pull-request-github",
+				"GraphQL.vscode-graphql",
+				"alefragnani.Bookmarks",
+				"esbenp.prettier-vscode",
+				"wayou.vscode-todo-highlight",
+				"redhat.vscode-yaml",
+				"EditorConfig.EditorConfig",
+				"hashicorp.terraform"
+			],
+			"settings": {
+				// Configure settings to be overridden for the dockercompose language.
+				"editor.tabSize": 2,
+
+				// Specifies the color theme used in the workbench.
+				"workbench.colorTheme": "Default Dark+ Experimental",
+
+				// Specifies the file icon theme used in the workbench or 'null' to not show any file icons.
+				//  - null: No file icons
+				//  - vs-minimal
+				//  - vs-seti
+				//  - eq-material-theme-icons
+				//  - eq-material-theme-icons-darker
+				//  - eq-material-theme-icons-palenight
+				//  - eq-material-theme-icons-ocean
+				//  - eq-material-theme-icons-light
+				"workbench.iconTheme": "eq-material-theme-icons-darker",
+
+				// Include parentheses around a sole arrow function parameter
+				"prettier.arrowParens": "always",
+
+				// When enabled, will trim trailing whitespace when saving a file.
+				"files.trimTrailingWhitespace": true,
+
+				// Controls how lines should wrap.
+				//  - off: Lines will never wrap.
+				//  - on: Lines will wrap at the viewport width.
+				//  - wordWrapColumn: Lines will wrap at `editor.wordWrapColumn`.
+				//  - bounded: Lines will wrap at the minimum of viewport and `editor.wordWrapColumn`.
+				"editor.wordWrap": "on"
+			}
+		}
+	},
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "sh .devcontainer/start/start.sh",
+}
