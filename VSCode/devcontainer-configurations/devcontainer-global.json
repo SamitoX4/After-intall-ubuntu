@@ -19,7 +19,7 @@
 				"wayou.vscode-todo-highlight",
 				"redhat.vscode-yaml",
 				"EditorConfig.EditorConfig",
-				"hashicorp.terraform"
+				"HashiCorp.terraform"
 			],
 			"settings": {
 				// Configure settings to be overridden for the dockercompose language.
