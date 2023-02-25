@@ -1,0 +1,8 @@
+[2023-02-25 05:38:02.538] [info]  [db] Initialized DB client
+[2023-02-25 05:38:02.731] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 05:38:02.736] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 05:38:03.101] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 05:38:03.230] [info]  {}
+[2023-02-25 05:38:03.364] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-02-25 05:38:03.365] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-02-25 05:38:03.369] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
