@@ -1,0 +1,58 @@
+{
+	"tables": {},
+	"relations": {},
+	"notes": {},
+	"lines": {},
+	"model": {
+		"name": "OdontoSTARS",
+		"id": "01372373-a904-49cc-9d0e-9877d85ce9ba",
+		"activeDiagram": "04bb71f4-26bb-47f3-b8b3-ebe5bb3630ec",
+		"desc": "",
+		"path": "",
+		"type": "MONGOOSE",
+		"version": 1,
+		"parentTableInFkCols": true,
+		"caseConvention": "under",
+		"replaceSpace": "_",
+		"color": "transparent",
+		"sideSelections": true,
+		"isDirty": true,
+		"storedin": {
+			"major": 6,
+			"minor": 0,
+			"extra": 0
+		},
+		"embeddedInParentsIsDisplayed": true,
+		"schemaContainerIsDisplayed": false,
+		"cardinalityIsDisplayed": false,
+		"estimatedSizeIsDisplayed": false,
+		"writeFileParam": false,
+		"currentDisplayMode": "metadata",
+		"def_coltopk": true,
+		"def_others": ""
+	},
+	"otherObjects": {},
+	"diagrams": {
+		"04bb71f4-26bb-47f3-b8b3-ebe5bb3630ec": {
+			"name": "Main Diagram",
+			"description": "",
+			"id": "04bb71f4-26bb-47f3-b8b3-ebe5bb3630ec",
+			"keysgraphics": true,
+			"linegraphics": "detailed",
+			"zoom": 1,
+			"background": "transparent",
+			"lineColor": "transparent",
+			"isOpen": true,
+			"main": true,
+			"diagramItems": {},
+			"scroll": {
+				"x": 0,
+				"y": 0
+			},
+			"type": "erd"
+		}
+	},
+	"order": [],
+	"collapsedTreeItems": [],
+	"reverseStats": {}
+}
