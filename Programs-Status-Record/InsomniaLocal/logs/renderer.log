@@ -1,11 +1,1007 @@
-[2023-02-25 06:15:22.172] [info]  [db] Initialized DB client
-[2023-02-25 06:15:22.442] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:15:22.447] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:15:23.086] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:15:23.278] [info]  {}
-[2023-02-25 06:15:23.482] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
-[2023-02-25 06:15:23.483] [info]  [sync] checking for collections which need to be moved into a remote project
-[2023-02-25 06:15:23.488] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
-[2023-02-25 06:22:45.678] [info]  {}
-[2023-02-25 06:22:46.192] [info]  {}
-[2023-02-25 06:22:46.322] [info]  {}
+[2023-02-28 14:00:53.046] [info]  [db] Initialized DB client
+[2023-02-28 14:00:53.275] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-28 14:00:53.281] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-28 14:00:53.765] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-28 14:00:53.927] [info]  {}
+[2023-02-28 14:00:54.095] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-02-28 14:00:54.096] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-02-28 14:00:54.099] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-02-28 14:01:12.827] [info]  {}
+[2023-02-28 14:01:12.891] [info]  {}
+[2023-02-28 14:01:12.934] [info]  {}
+[2023-02-28 14:01:41.466] [info]  {}
+[2023-02-28 14:01:41.492] [info]  {}
+[2023-02-28 14:01:42.687] [info]  {}
+[2023-02-28 14:01:42.706] [info]  {}
+[2023-02-28 14:02:04.879] [info]  {}
+[2023-02-28 14:02:05.026] [info]  {}
+[2023-02-28 14:02:05.128] [info]  {}
+[2023-02-28 14:02:06.625] [info]  {}
+[2023-02-28 14:02:06.644] [info]  {}
+[2023-02-28 14:02:10.802] [info]  {}
+[2023-02-28 14:02:10.818] [info]  {}
+[2023-02-28 14:02:11.018] [info]  {}
+[2023-02-28 14:02:11.043] [info]  {}
+[2023-02-28 14:02:23.538] [info]  {}
+[2023-02-28 14:02:23.568] [info]  {}
+[2023-02-28 14:02:23.729] [info]  {}
+[2023-02-28 14:02:23.739] [info]  {}
+[2023-02-28 14:02:26.747] [info]  {}
+[2023-02-28 14:02:26.794] [info]  {}
+[2023-02-28 14:02:26.881] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:02:27.709] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:02:32.044] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:02:32.086] [info]  {}
+[2023-02-28 14:02:32.218] [info]  {}
+[2023-02-28 14:02:33.472] [info]  {}
+[2023-02-28 14:02:33.504] [info]  {}
+[2023-02-28 14:02:34.799] [info]  {}
+[2023-02-28 14:02:34.831] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:02:34.929] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:02:45.804] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-02-28 14:02:49.502] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:02:49.819] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:03:52.720] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:03:53.127] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:03:56.408] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:03:56.568] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:08:07.391] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:08:07.763] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:11:11.136] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:11:11.700] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:14:07.748] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:14:08.170] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:14:09.248] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:14:09.374] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:14:12.324] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:14:12.462] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:14:14.231] [info]  [network] Sending req=req_79cf4583111f4d67bf6f6806d6a784b0 env=null
+[2023-02-28 14:14:14.413] [info]  [network] Response succeeded req=req_79cf4583111f4d67bf6f6806d6a784b0 status=200
+[2023-02-28 14:14:55.587] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610946782,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:14:55.629] [info]  {}
+[2023-02-28 14:14:55.747] [info]  {}
+[2023-02-28 14:15:00.799] [info]  {}
+[2023-02-28 14:15:00.852] [info]  {}
+[2023-02-28 14:15:00.874] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:00.967] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:02.642] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:02.685] [info]  {}
+[2023-02-28 14:15:02.805] [info]  {}
+[2023-02-28 14:15:04.106] [info]  {}
+[2023-02-28 14:15:04.126] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:04.220] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:08.932] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611700845,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:08.975] [info]  {}
+[2023-02-28 14:15:09.106] [info]  {}
+[2023-02-28 14:15:10.094] [info]  {}
+[2023-02-28 14:15:10.117] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610958389,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_79cf4583111f4d67bf6f6806d6a784b0',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:10.335] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610958389,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_79cf4583111f4d67bf6f6806d6a784b0',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:12.314] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610958389,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_79cf4583111f4d67bf6f6806d6a784b0',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:12.330] [info]  {}
+[2023-02-28 14:15:12.415] [info]  {}
+[2023-02-28 14:15:14.133] [info]  {}
+[2023-02-28 14:15:14.163] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611705627,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_8258ab06969844548277b65093e847c2',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:14.316] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611705627,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_8258ab06969844548277b65093e847c2',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:18.662] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677611700821,
+      created: 1677611700821,
+      name: 'My Collection2',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_1f7167e8862841e59bf5b32a7fbb6934',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_11bd648edb1947ee8379f37d32eee2da',
+      modified: 1677611705627,
+      created: 1677611700845,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_8258ab06969844548277b65093e847c2',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:18.693] [info]  {}
+[2023-02-28 14:15:18.801] [info]  {}
+[2023-02-28 14:15:21.428] [info]  {}
+[2023-02-28 14:15:21.490] [warn]  Failed to remove project from VCS TypeError: Cannot read properties of null (reading 'id')
+    at jp._removeProject (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:328:4181)
+    at Module.ee (file:///opt/Insomnia/resources/app.asar/actions.063da33e.js:1:2965)
+    at async Ug (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:107:22846)
+    at async H (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:107:15945)
+[2023-02-28 14:15:21.496] [info]  {}
+[2023-02-28 14:15:21.512] [info]  {}
+[2023-02-28 14:15:22.515] [info]  {}
+[2023-02-28 14:15:22.534] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610958389,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_79cf4583111f4d67bf6f6806d6a784b0',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:15:22.689] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      type: 'Workspace',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1677610946765,
+      created: 1677610946765,
+      name: 'My Collection',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
+      type: 'Project',
+      parentId: null,
+      modified: 1677610925011,
+      created: 1677610925011,
+      name: 'CursoSocketIO',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1677610958389,
+      created: 1677610946782,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: 'req_79cf4583111f4d67bf6f6806d6a784b0',
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-28 14:16:02.431] [info]  [network] Sending req=req_81b26664b1be44b6ac296ebb9e822b8a env=null
+[2023-02-28 14:16:02.867] [info]  [network] Response succeeded req=req_81b26664b1be44b6ac296ebb9e822b8a status=200
+[2023-02-28 14:16:05.845] [info]  [network] Sending req=req_81b26664b1be44b6ac296ebb9e822b8a env=null
+[2023-02-28 14:16:06.048] [info]  [network] Response succeeded req=req_81b26664b1be44b6ac296ebb9e822b8a status=200
+[2023-02-28 14:16:09.829] [info]  [network] Sending req=req_81b26664b1be44b6ac296ebb9e822b8a env=null
+[2023-02-28 14:16:09.979] [info]  [network] Response succeeded req=req_81b26664b1be44b6ac296ebb9e822b8a status=200

@@ -1,0 +1,53 @@
+[2023-02-12 20:21:51.705] [info] Checking for update
+[2023-02-12 20:21:51.813] [info] Generated new staging user ID: 7a5258cb-edfd-5f17-b25a-d56e58299906
+[2023-02-12 20:21:53.254] [info] Found version 5.0.15 (url: altair_5.0.15_x86_64_linux.AppImage)
+[2023-02-12 22:34:31.792] [info] Checking for update
+[2023-02-12 22:34:33.469] [info] Found version 5.0.15 (url: altair_5.0.15_x86_64_linux.AppImage)
+[2023-02-13 00:37:56.321] [info] Checking for update
+[2023-02-23 08:59:08.392] [info] Checking for update
+[2023-02-23 08:59:10.072] [info] Found version 5.0.16 (url: altair_5.0.16_x86_64_linux.AppImage)
+[2023-02-23 16:29:32.189] [info] Checking for update
+[2023-02-23 16:29:34.042] [info] Found version 5.0.16 (url: altair_5.0.16_x86_64_linux.AppImage)
+[2023-02-24 09:12:15.406] [info] Checking for update
+[2023-02-24 09:12:17.519] [info] Found version 5.0.16 (url: altair_5.0.16_x86_64_linux.AppImage)
+[2023-02-25 11:36:11.834] [info] Checking for update
+[2023-02-25 11:36:13.812] [info] Found version 5.0.16 (url: altair_5.0.16_x86_64_linux.AppImage)
+[2023-02-25 11:36:16.462] [info] Downloading update from altair_5.0.16_x86_64_linux.AppImage
+[2023-02-25 11:36:20.576] [info] File has 580 changed blocks
+[2023-02-25 11:36:20.627] [info] Full: 93,851.09 KB, To download: 11,830.74 KB (13%)
+[2023-02-25 11:36:20.629] [info] Differential download: https://github.com/altair-graphql/altair/releases/download/v5.0.16/altair_5.0.16_x86_64_linux.AppImage
+[2023-02-25 11:36:20.738] [info] Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/86188653/51ff1ba6-14ec-47a5-87fd-9298a02ab8c0
+[2023-02-25 11:36:27.549] [info] New version 5.0.16 has been downloaded to /home/blacky/.cache/altair-updater/pending/altair_5.0.16_x86_64_linux.AppImage
+[2023-02-25 11:36:31.502] [info] Install on explicit quitAndInstall
+[2023-02-25 11:36:31.504] [info] Install: isSilent: false, isForceRunAfter: true
+[2023-02-25 11:36:31.559] [info] Update installer has already been triggered. Quitting application.
+[2023-02-25 11:36:33.448] [info] Checking for update
+[2023-02-25 11:36:34.880] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-02-25 15:17:14.932] [info] Checking for update
+[2023-02-25 15:17:16.742] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-02-26 09:20:49.096] [info] Checking for update
+[2023-02-26 09:20:50.966] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-02-27 11:29:42.411] [info] Checking for update
+[2023-02-27 11:29:44.101] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-02-27 13:26:33.381] [info] Checking for update
+[2023-02-27 13:26:35.364] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-02-28 17:20:33.099] [info] Checking for update
+[2023-02-28 17:20:34.969] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-03-02 19:01:10.301] [info] Checking for update
+[2023-03-02 19:01:12.639] [info] Update for version 5.0.16 is not available (latest version: 5.0.16, downgrade is disallowed).
+[2023-03-04 14:34:12.677] [info] Checking for update
+[2023-03-04 14:34:14.773] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-04 15:36:40.975] [info] Checking for update
+[2023-03-04 15:36:42.858] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-05 09:13:33.369] [info] Checking for update
+[2023-03-05 09:13:35.355] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-05 11:37:06.622] [info] Checking for update
+[2023-03-05 11:37:08.902] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-05 15:09:50.086] [info] Checking for update
+[2023-03-05 15:09:51.895] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-06 06:16:39.560] [info] Checking for update
+[2023-03-06 06:16:41.745] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-06 06:49:58.843] [info] Checking for update
+[2023-03-06 06:50:01.592] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
+[2023-03-08 10:19:03.053] [info] Checking for update
+[2023-03-08 10:19:04.970] [info] Found version 5.0.17 (url: altair_5.0.17_x86_64_linux.AppImage)
