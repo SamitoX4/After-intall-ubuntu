@@ -1,0 +1,311 @@
+[2023-02-25 06:24:05.952] [info]  [db] Initialized DB client
+[2023-02-25 06:24:06.352] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 06:24:06.357] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 06:24:07.133] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-02-25 06:24:07.308] [info]  {}
+[2023-02-25 06:24:07.685] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-02-25 06:24:07.686] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-02-25 06:24:07.689] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-02-25 06:24:09.983] [info]  {}
+[2023-02-25 06:24:10.012] [info]  {}
+[2023-02-25 06:24:10.596] [info]  {}
+[2023-02-25 06:24:10.628] [info]  {}
+[2023-02-25 06:24:11.100] [info]  {}
+[2023-02-25 06:24:11.118] [info]  {}
+[2023-02-25 06:24:29.989] [info]  {}
+[2023-02-25 06:24:30.011] [info]  {}
+[2023-02-25 06:24:30.511] [info]  {}
+[2023-02-25 06:24:30.531] [info]  {}
+[2023-02-25 06:24:31.675] [info]  {}
+[2023-02-25 06:24:31.731] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:24:32.581] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:24:36.115] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:24:36.154] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:24:36.174] [info]  {}
+[2023-02-25 06:24:36.272] [info]  {}
+[2023-02-25 06:24:43.131] [info]  {}
+[2023-02-25 06:24:43.156] [info]  {}
+[2023-02-25 06:24:49.767] [info]  {}
+[2023-02-25 06:24:49.795] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:24:49.900] [info]  {
+  workspaceData: {
+    activeWorkspace: {
+      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      type: 'Workspace',
+      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
+      modified: 1677321331472,
+      created: 1677321331472,
+      name: 'Prueba Colecion Handin',
+      description: '',
+      scope: 'collection'
+    },
+    activeProject: {
+      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      type: 'Project',
+      parentId: null,
+      modified: 1677320704589,
+      created: 1677320704589,
+      name: 'Handin',
+      remoteId: null
+    },
+    gitRepository: null,
+    activeWorkspaceMeta: {
+      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      type: 'WorkspaceMeta',
+      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      modified: 1677321331483,
+      created: 1677321331483,
+      activeActivity: null,
+      activeEnvironmentId: null,
+      activeRequestId: null,
+      activeUnitTestSuiteId: null,
+      cachedGitLastAuthor: null,
+      cachedGitLastCommitTime: null,
+      cachedGitRepositoryBranch: null,
+      gitRepositoryId: null,
+      hasSeen: true,
+      paneHeight: 0.5,
+      paneWidth: 0.5,
+      sidebarFilter: '',
+      sidebarHidden: false,
+      sidebarWidth: 19,
+      pushSnapshotOnInitialize: false
+    }
+  }
+}
+[2023-02-25 06:28:32.003] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-02-25 06:28:32.052] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
+[2023-02-25 06:28:33.086] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
+[2023-02-25 06:28:39.113] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
+[2023-02-25 06:28:39.502] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
+[2023-02-25 06:28:42.378] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
+[2023-02-25 06:28:42.501] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
+[2023-02-25 06:30:39.402] [info]  [plugins] reloaded

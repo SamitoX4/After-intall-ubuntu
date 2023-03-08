@@ -1,0 +1,25 @@
+{
+  "author": "acct_c736f246656c4973a1cdb7ec67561a8c",
+  "authorAccount": {
+    "email": "raulbengalysamameascorbe@gmail.com",
+    "firstName": "Raúl Bengaly",
+    "lastName": "Samame Ascorbe"
+  },
+  "created": "2023-02-25T10:18:40.796Z",
+  "description": "",
+  "id": "2096732c9077a609f6aebe4dd7201214db533f99",
+  "name": "Initial Snapshot",
+  "parent": "0000000000000000000000000000000000000000",
+  "state": [
+    {
+      "blob": "f5754ae8839d09dfd5a8aa09f0bbfaf56408f918",
+      "key": "env_cdbc7add442cfe70f34cdc3d2064545a0e17ea0b",
+      "name": "Base Environment"
+    },
+    {
+      "blob": "fc1e7117c394f6ae12ad20e86df51cff8679a5b2",
+      "key": "wrk_828ad574d5e542baab8e92b293264d65",
+      "name": "My Collection"
+    }
+  ]
+}

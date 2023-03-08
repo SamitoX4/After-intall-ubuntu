@@ -1,0 +1,7 @@
+# Next Line is add to angular, typescript and node
+
+# Angular
+RUN su node -c "npm install -g @angular/cli"
+
+# TS
+RUN su node -c "npm install -g typescript"

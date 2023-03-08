@@ -1,0 +1,27 @@
+Leer bien la siguiente parte:
+
+Utilizado para el primer commit o el inicio de un proyecto por el contrario
+para la continuacion de un proyecto es mejor clonar (ver archivo 03) el
+repositorio en lugar de agregar el origen remoto ya que se puede tener errores
+en la integridad de los archivos o estructura del proyecto.
+
+Las actividades para hacer el agregado de origen remoto son las siguientes:
+
+- Asegurarse de haber iniciado el repositorio con el comando
+
+    git init
+
+- Asegurarse de tener registrado el usuario y el email en git con el siguiente
+  comando:
+
+    git config -l
+
+- Agregar el repositorio remoto con el siguiente comando:
+
+    git remote add origin https://github.com/owner/repo.git
+    
+    git remote add origin https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git
+
+  Nota: El segundo comando aun no se prueba con el comando de credenciales asi
+        que, queda pendiente utilizar el comando (21/02/2023 no se utiliza y no
+        se fijo fecha de prueba).

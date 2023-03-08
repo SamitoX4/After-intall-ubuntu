@@ -1,3 +1,9 @@
-Login:
+Login: Primero ver la configuracion actual, puede que ya este agregado si estas con
+       dev containers de vscode.
+
+    -   git config -l
     -   git config --global user.name 'SamitoX4'
     -   git config --global user.email 'raulbengalysamameascorbe@gmail.com'
+
+Note: Check config with "git config -l"
+Note: View the line in devcontainer.json "'postCreateCommand': 'sh .devcontainer/start/start.sh'"

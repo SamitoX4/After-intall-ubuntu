@@ -1,0 +1,4 @@
+# Next Line is add to end on Dockerfile in container dev
+
+# Install FFmpeg - stream server requeriments
+RUN apt-get -y install ffmpeg

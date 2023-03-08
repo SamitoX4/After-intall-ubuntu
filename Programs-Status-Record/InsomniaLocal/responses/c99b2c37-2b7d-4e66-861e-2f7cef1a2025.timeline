@@ -1,0 +1,107 @@
+[
+	{
+		"value": "Preparing request to http://localhost:5000/mensajes",
+		"name": "Text",
+		"timestamp": 1677610969617
+	},
+	{
+		"value": "Current time is 2023-02-28T19:02:49.617Z",
+		"name": "Text",
+		"timestamp": 1677610969617
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1677610969617
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1677610969621
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1677610969621
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1677610969621
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:5000...\n",
+		"timestamp": 1677610969622
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 5000 (#0)\n",
+		"timestamp": 1677610969622
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /mensajes HTTP/1.1\r\nHost: localhost:5000\r\nUser-Agent: insomnia/2022.7.5\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1677610969622
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 39\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"27-/LXRMhUMO+NaKjFTRsHHFgzKaSA\"\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Tue, 28 Feb 2023 19:02:49 GMT\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "Text",
+		"value": "Received 39 B chunk",
+		"timestamp": 1677610969814
+	},
+	{
+		"name": "Text",
+		"value": "Connection #0 to host localhost left intact\n",
+		"timestamp": 1677610969815
+	}
+]
