@@ -10,7 +10,6 @@ Dentro de la carpeta - linux ubuntu:
 
 poner el archivo "de_vegas.wad" para que funcione el mapa de iceworld.
 
-
 Dentro de la carpeta - linux ubuntu:
 
 /Steam/steamapps/common/Half-Life/cstrike/maps/
@@ -18,6 +17,16 @@ Dentro de la carpeta - linux ubuntu:
 poner todos los archivos que encuentres en la:
 
 /Counter Strike 1.6 Mapas y Armas/Mapas Adicionales/
+
+Dentro de la carpeta - linux ubuntu:
+
+/media/blacky/Blacky/Steam/steamapps/common/Half-Life/cstrike
+
+poner todos los archivos que encuentres en la:
+
+/Counter Strike 1.6 Mapas y Armas/Pack de Armas/
+
+Nota: Si te dice combinar y reemplazar, acepta todo.
 
 ================= Bots =================
 

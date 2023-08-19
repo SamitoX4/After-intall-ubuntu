@@ -1,0 +1,127 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/cars/",
+		"name": "Text",
+		"timestamp": 1686389189591
+	},
+	{
+		"value": "Current time is 2023-06-10T09:26:29.591Z",
+		"name": "Text",
+		"timestamp": 1686389189591
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1686389189591
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1686389189592
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1686389189592
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1686389189592
+	},
+	{
+		"name": "Text",
+		"value": "Connection 21 seems to be dead!\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 21\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#22)\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "HeaderOut",
+		"value": "POST /cars/ HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nContent-Type: application/x-www-form-urlencoded\r\nAccept: */*\r\nContent-Length: 22\r\n\r\n",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "DataOut",
+		"value": "brand=Volvo&model=XC40",
+		"timestamp": 1686389189593
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 201 Created\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 32\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"20-r/2V8dhmWvtFnfyiMzBahxMzZHc\"\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Sat, 10 Jun 2023 09:26:29 GMT\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "Text",
+		"value": "Received 32 B chunk",
+		"timestamp": 1686389189836
+	},
+	{
+		"name": "Text",
+		"value": "Connection #22 to host localhost left intact\n",
+		"timestamp": 1686389189836
+	}
+]

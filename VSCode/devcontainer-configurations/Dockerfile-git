@@ -1,0 +1,4 @@
+# Next Line is add to end on Git in container dev
+
+# Install Git
+RUN apt-get install git

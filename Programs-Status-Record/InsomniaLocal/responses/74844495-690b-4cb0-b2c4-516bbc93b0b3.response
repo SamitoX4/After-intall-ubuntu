@@ -1,0 +1,1 @@
+{"message":["title must be longer than or equal to 1 characters","title must be a string","sizes must be an array","each value in sizes must be a string","gender must be one of the following values: men, women, kid, unisex"],"error":"Bad Request","statusCode":400}

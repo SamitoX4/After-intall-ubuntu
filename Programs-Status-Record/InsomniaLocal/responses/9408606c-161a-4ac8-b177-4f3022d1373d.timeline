@@ -1,0 +1,122 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/api/products/e0e3a8c0-20b1-4172-88af-7171d4da285e",
+		"name": "Text",
+		"timestamp": 1690654846351
+	},
+	{
+		"value": "Current time is 2023-07-29T18:20:46.351Z",
+		"name": "Text",
+		"timestamp": 1690654846351
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690654846351
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690654846353
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690654846353
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host localhost: 0x3ad402d4dec0 [serially]\n",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#65) with host localhost\n",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#65)\n",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "HeaderOut",
+		"value": "PATCH /api/products/e0e3a8c0-20b1-4172-88af-7171d4da285e HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 77\r\n\r\n",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "DataOut",
+		"value": "{\n\t\"price\": 159.99,\n\t\"title\": \"Raul Samame Ascorbe\",\n\t\"slug\": \"hola_mundo2\"\n}",
+		"timestamp": 1690654846353
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1690654846367
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1690654846367
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 178\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"b2-zGDZPY74CFoJ2PbYR4yd0L5mWgA\"\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Sat, 29 Jul 2023 18:20:46 GMT\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "Text",
+		"value": "Received 178 B chunk",
+		"timestamp": 1690654846368
+	},
+	{
+		"name": "Text",
+		"value": "Connection #65 to host localhost left intact\n",
+		"timestamp": 1690654846368
+	}
+]

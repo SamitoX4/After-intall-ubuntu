@@ -1,0 +1,112 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/api/v2/pokemon/64c01cfbf9b29199251d6063",
+		"name": "Text",
+		"timestamp": 1690332798366
+	},
+	{
+		"value": "Current time is 2023-07-26T00:53:18.366Z",
+		"name": "Text",
+		"timestamp": 1690332798366
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690332798366
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690332798367
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690332798367
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (201 seconds), disconnect it\n",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "Connection 33 seems to be dead!\n",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 33\n",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1690332798367
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#34)\n",
+		"timestamp": 1690332798368
+	},
+	{
+		"name": "HeaderOut",
+		"value": "DELETE /api/v2/pokemon/64c01cfbf9b29199251d6063 HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1690332798368
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Wed, 26 Jul 2023 00:53:18 GMT\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 0\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1690332798714
+	},
+	{
+		"name": "Text",
+		"value": "Connection #34 to host localhost left intact\n",
+		"timestamp": 1690332798714
+	}
+]

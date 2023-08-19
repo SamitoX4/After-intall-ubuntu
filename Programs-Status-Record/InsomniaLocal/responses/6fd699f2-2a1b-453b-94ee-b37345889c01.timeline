@@ -1,0 +1,62 @@
+[
+	{
+		"value": "Preparing request to http://192.168.224.2:3200/api/v2/pokemon?offset=0&limit=20",
+		"name": "Text",
+		"timestamp": 1690467185857
+	},
+	{
+		"value": "Current time is 2023-07-27T14:13:05.857Z",
+		"name": "Text",
+		"timestamp": 1690467185857
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690467185857
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690467185859
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690467185859
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690467185859
+	},
+	{
+		"name": "Text",
+		"value": "Connection 36 seems to be dead!\n",
+		"timestamp": 1690467185859
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 36\n",
+		"timestamp": 1690467185859
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 192.168.224.2:3200...\n",
+		"timestamp": 1690467185859
+	},
+	{
+		"name": "Text",
+		"value": "connect to 192.168.224.2 port 3200 failed: No route to host\n",
+		"timestamp": 1690467185990
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to 192.168.224.2 port 3200 after 132 ms: No route to host\n",
+		"timestamp": 1690467185990
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 37\n",
+		"timestamp": 1690467185990
+	}
+]

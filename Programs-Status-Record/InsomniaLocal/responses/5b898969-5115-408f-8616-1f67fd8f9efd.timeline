@@ -1,0 +1,122 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/api/v2/pokemon/charmander",
+		"name": "Text",
+		"timestamp": 1690333397850
+	},
+	{
+		"value": "Current time is 2023-07-26T01:03:17.850Z",
+		"name": "Text",
+		"timestamp": 1690333397850
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690333397850
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690333397852
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690333397852
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690333397852
+	},
+	{
+		"name": "Text",
+		"value": "Connection 36 seems to be dead!\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 36\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#37)\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "HeaderOut",
+		"value": "DELETE /api/v2/pokemon/charmander HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1690333397854
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 10\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"a-8xJ6iPbds/g20vuk8l7ZGkfNS8s\"\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Wed, 26 Jul 2023 01:03:18 GMT\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "Text",
+		"value": "Received 10 B chunk",
+		"timestamp": 1690333398015
+	},
+	{
+		"name": "Text",
+		"value": "Connection #37 to host localhost left intact\n",
+		"timestamp": 1690333398015
+	}
+]

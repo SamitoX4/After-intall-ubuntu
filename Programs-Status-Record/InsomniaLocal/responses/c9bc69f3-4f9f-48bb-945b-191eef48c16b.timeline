@@ -1,0 +1,52 @@
+[
+	{
+		"value": "Preparing request to http://192.168.240.2:3200/api/v2/seed",
+		"name": "Text",
+		"timestamp": 1690467145773
+	},
+	{
+		"value": "Current time is 2023-07-27T14:12:25.773Z",
+		"name": "Text",
+		"timestamp": 1690467145773
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690467145773
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690467145775
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690467145775
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690467145775
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 192.168.240.2:3200...\n",
+		"timestamp": 1690467145775
+	},
+	{
+		"name": "Text",
+		"value": "connect to 192.168.240.2 port 3200 failed: Connection refused\n",
+		"timestamp": 1690467145775
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to 192.168.240.2 port 3200 after 0 ms: Connection refused\n",
+		"timestamp": 1690467145775
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 35\n",
+		"timestamp": 1690467145775
+	}
+]

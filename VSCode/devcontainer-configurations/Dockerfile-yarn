@@ -1,0 +1,4 @@
+# Next Line is add to nestjs, yarn and node
+
+# Yarn
+RUN su node -c "npm install --global yarn"

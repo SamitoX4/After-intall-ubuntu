@@ -1,0 +1,42 @@
+[
+	{
+		"value": "Preparing request to http://mongo_5:3000/api/v2/pokemon?offset=0&limit=20",
+		"name": "Text",
+		"timestamp": 1690463671836
+	},
+	{
+		"value": "Current time is 2023-07-27T13:14:31.837Z",
+		"name": "Text",
+		"timestamp": 1690463671837
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690463671837
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690463671838
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690463671838
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690463671838
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: mongo_5\n",
+		"timestamp": 1690463671839
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 22\n",
+		"timestamp": 1690463671839
+	}
+]

@@ -1,53 +1,38 @@
-[2023-02-25 06:24:05.952] [info]  [db] Initialized DB client
-[2023-02-25 06:24:06.352] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:24:06.357] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:24:07.133] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
-[2023-02-25 06:24:07.308] [info]  {}
-[2023-02-25 06:24:07.685] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
-[2023-02-25 06:24:07.686] [info]  [sync] checking for collections which need to be moved into a remote project
-[2023-02-25 06:24:07.689] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
-[2023-02-25 06:24:09.983] [info]  {}
-[2023-02-25 06:24:10.012] [info]  {}
-[2023-02-25 06:24:10.596] [info]  {}
-[2023-02-25 06:24:10.628] [info]  {}
-[2023-02-25 06:24:11.100] [info]  {}
-[2023-02-25 06:24:11.118] [info]  {}
-[2023-02-25 06:24:29.989] [info]  {}
-[2023-02-25 06:24:30.011] [info]  {}
-[2023-02-25 06:24:30.511] [info]  {}
-[2023-02-25 06:24:30.531] [info]  {}
-[2023-02-25 06:24:31.675] [info]  {}
-[2023-02-25 06:24:31.731] [info]  {
+[2023-07-27 08:05:07.093] [info]  [db] Initialized DB client
+[2023-07-27 08:05:07.279] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-27 08:05:07.284] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-27 08:05:07.604] [warn]  The vm module of Node.js is deprecated in the renderer process and will be removed.
+[2023-07-27 08:05:07.758] [info]  {
   workspaceData: {
     activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
+      _id: 'wrk_d00336574b4346afacb7c13ef80b75a6',
       type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
+      parentId: 'proj_e38ec8c53422446eb3756e85437fded6',
+      modified: 1686485611950,
+      created: 1677610946765,
+      name: 'Curso Nest',
       description: '',
       scope: 'collection'
     },
     activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
+      _id: 'proj_e38ec8c53422446eb3756e85437fded6',
       type: 'Project',
       parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
+      modified: 1686485595379,
+      created: 1677610925011,
+      name: 'Nest JS',
       remoteId: null
     },
     gitRepository: null,
     activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
+      _id: 'wrkm_e096ba1908244b9bb32a1ba7c7e3945f',
       type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
+      parentId: 'wrk_d00336574b4346afacb7c13ef80b75a6',
+      modified: 1690431155947,
+      created: 1677610946782,
       activeActivity: null,
       activeEnvironmentId: null,
-      activeRequestId: null,
+      activeRequestId: 'req_0e0248cdee6d43ceba46d98fc541a098',
       activeUnitTestSuiteId: null,
       cachedGitLastAuthor: null,
       cachedGitLastCommitTime: null,
@@ -63,249 +48,1136 @@
     }
   }
 }
-[2023-02-25 06:24:32.581] [info]  {
-  workspaceData: {
-    activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
-      description: '',
-      scope: 'collection'
-    },
-    activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
-      type: 'Project',
-      parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
-      remoteId: null
-    },
-    gitRepository: null,
-    activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
-      type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
-      activeActivity: null,
-      activeEnvironmentId: null,
-      activeRequestId: null,
-      activeUnitTestSuiteId: null,
-      cachedGitLastAuthor: null,
-      cachedGitLastCommitTime: null,
-      cachedGitRepositoryBranch: null,
-      gitRepositoryId: null,
-      hasSeen: true,
-      paneHeight: 0.5,
-      paneWidth: 0.5,
-      sidebarFilter: '',
-      sidebarHidden: false,
-      sidebarWidth: 19,
-      pushSnapshotOnInitialize: false
-    }
-  }
-}
-[2023-02-25 06:24:36.115] [info]  {
-  workspaceData: {
-    activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
-      description: '',
-      scope: 'collection'
-    },
-    activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
-      type: 'Project',
-      parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
-      remoteId: null
-    },
-    gitRepository: null,
-    activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
-      type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
-      activeActivity: null,
-      activeEnvironmentId: null,
-      activeRequestId: null,
-      activeUnitTestSuiteId: null,
-      cachedGitLastAuthor: null,
-      cachedGitLastCommitTime: null,
-      cachedGitRepositoryBranch: null,
-      gitRepositoryId: null,
-      hasSeen: true,
-      paneHeight: 0.5,
-      paneWidth: 0.5,
-      sidebarFilter: '',
-      sidebarHidden: false,
-      sidebarWidth: 19,
-      pushSnapshotOnInitialize: false
-    }
-  }
-}
-[2023-02-25 06:24:36.154] [info]  {
-  workspaceData: {
-    activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
-      description: '',
-      scope: 'collection'
-    },
-    activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
-      type: 'Project',
-      parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
-      remoteId: null
-    },
-    gitRepository: null,
-    activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
-      type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
-      activeActivity: null,
-      activeEnvironmentId: null,
-      activeRequestId: null,
-      activeUnitTestSuiteId: null,
-      cachedGitLastAuthor: null,
-      cachedGitLastCommitTime: null,
-      cachedGitRepositoryBranch: null,
-      gitRepositoryId: null,
-      hasSeen: true,
-      paneHeight: 0.5,
-      paneWidth: 0.5,
-      sidebarFilter: '',
-      sidebarHidden: false,
-      sidebarWidth: 19,
-      pushSnapshotOnInitialize: false
-    }
-  }
-}
-[2023-02-25 06:24:36.174] [info]  {}
-[2023-02-25 06:24:36.272] [info]  {}
-[2023-02-25 06:24:43.131] [info]  {}
-[2023-02-25 06:24:43.156] [info]  {}
-[2023-02-25 06:24:49.767] [info]  {}
-[2023-02-25 06:24:49.795] [info]  {
-  workspaceData: {
-    activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
-      description: '',
-      scope: 'collection'
-    },
-    activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
-      type: 'Project',
-      parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
-      remoteId: null
-    },
-    gitRepository: null,
-    activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
-      type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
-      activeActivity: null,
-      activeEnvironmentId: null,
-      activeRequestId: null,
-      activeUnitTestSuiteId: null,
-      cachedGitLastAuthor: null,
-      cachedGitLastCommitTime: null,
-      cachedGitRepositoryBranch: null,
-      gitRepositoryId: null,
-      hasSeen: true,
-      paneHeight: 0.5,
-      paneWidth: 0.5,
-      sidebarFilter: '',
-      sidebarHidden: false,
-      sidebarWidth: 19,
-      pushSnapshotOnInitialize: false
-    }
-  }
-}
-[2023-02-25 06:24:49.900] [info]  {
-  workspaceData: {
-    activeWorkspace: {
-      _id: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      type: 'Workspace',
-      parentId: 'proj_648acad83d43434cbb4ee993399449ff',
-      modified: 1677321331472,
-      created: 1677321331472,
-      name: 'Prueba Colecion Handin',
-      description: '',
-      scope: 'collection'
-    },
-    activeProject: {
-      _id: 'proj_648acad83d43434cbb4ee993399449ff',
-      type: 'Project',
-      parentId: null,
-      modified: 1677320704589,
-      created: 1677320704589,
-      name: 'Handin',
-      remoteId: null
-    },
-    gitRepository: null,
-    activeWorkspaceMeta: {
-      _id: 'wrkm_3eb4afc6876042a890c20eb390ee1274',
-      type: 'WorkspaceMeta',
-      parentId: 'wrk_16a0eff8519848c483ec8e47af3ac163',
-      modified: 1677321331483,
-      created: 1677321331483,
-      activeActivity: null,
-      activeEnvironmentId: null,
-      activeRequestId: null,
-      activeUnitTestSuiteId: null,
-      cachedGitLastAuthor: null,
-      cachedGitLastCommitTime: null,
-      cachedGitRepositoryBranch: null,
-      gitRepositoryId: null,
-      hasSeen: true,
-      paneHeight: 0.5,
-      paneWidth: 0.5,
-      sidebarFilter: '',
-      sidebarHidden: false,
-      sidebarWidth: 19,
-      pushSnapshotOnInitialize: false
-    }
-  }
-}
-[2023-02-25 06:28:32.003] [error] Error: No importers found for file
+[2023-07-27 08:05:07.885] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-07-27 08:05:07.885] [info]  [sync] checking for collections which need to be moved into a remote project
+[2023-07-27 08:05:07.889] [info]  [FileSystemDriver] Initialized in "/home/blacky/.config/Insomnia/version-control"
+[2023-07-27 08:05:11.085] [info]  [network] Sending req=req_0e0248cdee6d43ceba46d98fc541a098 env=null
+[2023-07-27 08:05:11.337] [info]  [network] Response failed req=req_0e0248cdee6d43ceba46d98fc541a098 err=Error: Couldn't connect to server
+[2023-07-27 08:05:12.932] [info]  [network] Sending req=req_0e0248cdee6d43ceba46d98fc541a098 env=null
+[2023-07-27 08:05:13.099] [info]  [network] Response failed req=req_0e0248cdee6d43ceba46d98fc541a098 err=Error: Couldn't connect to server
+[2023-07-27 08:05:19.530] [info]  [network] Sending req=req_0e0248cdee6d43ceba46d98fc541a098 env=null
+[2023-07-27 08:05:19.685] [info]  [network] Response failed req=req_0e0248cdee6d43ceba46d98fc541a098 err=Error: Couldn't connect to server
+[2023-07-27 08:07:36.463] [error] Error: No importers found for file
     at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
     at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
     at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
-[2023-02-25 06:28:32.052] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
-[2023-02-25 06:28:33.086] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
-[2023-02-25 06:28:39.113] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
-[2023-02-25 06:28:39.502] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
-[2023-02-25 06:28:42.378] [info]  [network] Sending req=req_6099e0afa9394af4a2fa0647f75e0075.graphql env=null
-[2023-02-25 06:28:42.501] [info]  [network] Response succeeded req=req_6099e0afa9394af4a2fa0647f75e0075.graphql status=200
-[2023-02-25 06:30:39.402] [info]  [plugins] reloaded
+[2023-07-27 08:07:37.218] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:07:37.454] [info]  [network] Response failed req=req_076a3db69ceb40549dbd47763e498403 err=Error: Couldn't resolve host name
+[2023-07-27 08:07:39.701] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:07:39.937] [info]  [network] Response failed req=req_076a3db69ceb40549dbd47763e498403 err=Error: Couldn't connect to server
+[2023-07-27 08:08:22.282] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:08:23.187] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:08:23.424] [info]  [network] Response succeeded req=req_076a3db69ceb40549dbd47763e498403 status=200
+[2023-07-27 08:08:24.538] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:08:24.699] [info]  [network] Response succeeded req=req_076a3db69ceb40549dbd47763e498403 status=200
+[2023-07-27 08:08:24.808] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:08:25.006] [info]  [network] Response succeeded req=req_076a3db69ceb40549dbd47763e498403 status=200
+[2023-07-27 08:08:27.877] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:08:28.104] [info]  [network] Response succeeded req=req_076a3db69ceb40549dbd47763e498403 status=200
+[2023-07-27 08:08:30.986] [info]  [network] Sending req=req_076a3db69ceb40549dbd47763e498403 env=null
+[2023-07-27 08:08:31.181] [info]  [network] Response failed req=req_076a3db69ceb40549dbd47763e498403 err=Error: Couldn't connect to server
+[2023-07-27 08:08:36.225] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:08:37.184] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:37.319] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:08:38.081] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:38.306] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:08:38.939] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:39.133] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:08:45.984] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:08:48.842] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:52.078] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:08:56.866] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:57.015] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:08:59.670] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:08:59.885] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:09:16.035] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:09:16.224] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:09:16.968] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:09:17.219] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:09:18.135] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:09:18.295] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:09:20.273] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:09:20.441] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:11:07.253] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:07.465] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:11:08.069] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:08.256] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:11:08.288] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:08.495] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:08.665] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:11:08.779] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:11:23.867] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:24.029] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:11:30.521] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:11:30.683] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:11:52.113] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:12:08.887] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:12:13.942] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:12:14.061] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:13:00.466] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:13:01.982] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:13:02.832] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:14:21.883] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:14:22.071] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:14:22.904] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:14:23.089] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:14:31.612] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:14:31.841] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't resolve host name
+[2023-07-27 08:14:38.184] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:14:38.397] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:16:51.147] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:16:54.457] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:16:54.749] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't resolve host name
+[2023-07-27 08:16:58.458] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:16:58.620] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 08:19:30.127] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 08:19:30.500] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:19:30.699] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:21:24.592] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:21:25.020] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:22:40.714] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:22:40.945] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:22:42.405] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:22:42.574] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:23:02.033] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=null
+[2023-07-27 08:23:02.466] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 08:23:05.246] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:23:05.434] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:25:04.684] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:25:04.879] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:33:46.888] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:33:47.105] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 08:33:48.033] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 08:33:48.272] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:12:03.091] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 09:12:10.862] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 09:12:18.904] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 09:12:19.694] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=null
+[2023-07-27 09:12:19.922] [info]  [network] Response failed req=req_fafb4c02a3644beebfe2676034942fb7 err=Error: Couldn't connect to server
+[2023-07-27 09:12:20.803] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=null
+[2023-07-27 09:12:21.050] [info]  [network] Response failed req=req_fafb4c02a3644beebfe2676034942fb7 err=Error: Couldn't connect to server
+[2023-07-27 09:12:25.613] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=null
+[2023-07-27 09:12:25.776] [info]  [network] Response failed req=req_fafb4c02a3644beebfe2676034942fb7 err=Error: Couldn't connect to server
+[2023-07-27 09:12:41.918] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=null
+[2023-07-27 09:12:42.665] [info]  [network] Response succeeded req=req_fafb4c02a3644beebfe2676034942fb7 status=200
+[2023-07-27 09:13:05.703] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:05.993] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 09:13:13.194] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 09:13:13.848] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:14.049] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:13:28.593] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:28.773] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 09:13:29.406] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:29.609] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 09:13:30.068] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:30.315] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 09:13:37.583] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:37.773] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:13:38.639] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:38.848] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:13:39.404] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:13:39.546] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:15:03.382] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:03.569] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Failed sending data to the peer
+[2023-07-27 09:15:04.309] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:04.491] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:15:05.376] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:05.533] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:15:06.181] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:06.346] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:15:40.080] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:40.272] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 09:15:41.214] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 09:15:41.356] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:27:34.684] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 10:27:34.827] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:28:15.504] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:28:20.482] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:28:21.874] [info]  [network] Sending req=req_50351fc37f6149c084d5b702fd1cc1dd env=null
+[2023-07-27 10:28:22.042] [info]  [network] Response succeeded req=req_50351fc37f6149c084d5b702fd1cc1dd status=200
+[2023-07-27 10:31:00.139] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 10:31:00.335] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:31:01.115] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 10:31:01.294] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:31:08.621] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=null
+[2023-07-27 10:31:09.391] [info]  [network] Response succeeded req=req_fafb4c02a3644beebfe2676034942fb7 status=200
+[2023-07-27 10:31:11.932] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=null
+[2023-07-27 10:31:12.109] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:35:51.824] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:35:52.036] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:35:59.604] [warn]  Tried to replace mark that did not exist {
+  lines: [],
+  type: 'range',
+  doc: {
+    children: [
+      {
+        lines: [
+          {
+            text: 'localhost:${{{ _.PORT_LOCAL }}}/api/v2/pokemon?offset=0&limit=20',
+            height: 18.1875,
+            stateAfter: [Object],
+            styles: [Array],
+            order: false,
+            markedSpans: [Array]
+          }
+        ],
+        height: 18.1875
+      }
+    ],
+    size: 1,
+    height: 18.1875,
+    parent: null,
+    first: 0,
+    scrollLeft: 0,
+    scrollTop: 0,
+    cantEdit: false,
+    cleanGeneration: 1,
+    highlightFrontier: 1,
+    modeFrontier: 1,
+    sel: {
+      ranges: [
+        {
+          anchor: { line: 0, ch: 38, sticky: 'before', xRel: -3.328125 }
+        }
+      ],
+      primIndex: 0
+    },
+    history: {
+      done: [
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 2 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        {
+          changes: [ [Object], [Object], [Object], [Object] ],
+          generation: 6
+        },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 10 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 13 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { changes: [ [Object] ], generation: 23 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 24 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        null
+      ],
+      undone: [],
+      undoDepth: 200,
+      lastSelTime: 1690472159271,
+      lastModTime: 1690472156426,
+      lastSelOp: 2264,
+      lastOp: 2258,
+      lastSelOrigin: null,
+      maxGeneration: 25,
+      generation: 25
+    },
+    id: 122,
+    modeOption: { name: 'nunjucks', baseMode: 'text/plain' },
+    lineSep: null,
+    direction: 'ltr',
+    extend: false,
+    cm: {
+      options: {
+        lineNumbers: false,
+        placeholder: 'https://api.myproduct.com/v1/users',
+        foldGutter: false,
+        autoRefresh: { delay: 2000 },
+        lineWrapping: false,
+        scrollbarStyle: 'null',
+        lint: false,
+        matchBrackets: false,
+        autoCloseBrackets: false,
+        viewportMargin: 30,
+        readOnly: false,
+        tabindex: 0,
+        selectionPointer: 'default',
+        styleActiveLine: false,
+        indentWithTabs: false,
+        showCursorWhenSelecting: false,
+        cursorScrollMargin: 12,
+        keyMap: 'default',
+        extraKeys: { 'Ctrl-Space': 'autocomplete' },
+        gutters: [],
+        environmentAutocomplete: {
+          getVariables: '[function] async()=>{var O;return S?((O=await S())==null?void 0:O.keys)||[]:[]}',
+          getTags: '[function] async()=>S?(await yv()).map(k).flat():[]',
+          getConstants: '[function] ()=>_s(s._id,we.type,a==null?void 0:a._id)',
+          hotKeyRegistry: {
+            workspace_showSettings: [Object],
+            request_showSettings: [Object],
+            preferences_showKeyboardShortcuts: [Object],
+            preferences_showGeneral: [Object],
+            request_quickSwitch: [Object],
+            request_showRecent: [Object],
+            request_showRecentPrevious: [Object],
+            plugin_reload: [Object],
+            showAutocomplete: [Object],
+            request_send: [Object],
+            request_showOptions: [Object],
+            environment_showEditor: [Object],
+            environment_showSwitchMenu: [Object],
+            request_toggleHttpMethodMenu: [Object],
+            request_toggleHistory: [Object],
+            request_focusUrl: [Object],
+            request_showGenerateCodeEditor: [Object],
+            sidebar_focusFilter: [Object],
+            sidebar_toggle: [Object],
+            response_focus: [Object],
+            showCookiesEditor: [Object],
+            request_createHTTP: [Object],
+            request_showDelete: [Object],
+            request_showCreateFolder: [Object],
+            request_showDuplicate: [Object],
+            request_togglePin: [Object],
+            environment_showVariableSourceAndValue: [Object],
+            beautifyRequestBody: [Object],
+            graphql_explorer_focus_filter: [Object]
+          },
+          autocompleteDelay: 1100
+        },
+        value: '',
+        autofocus: false,
+        finishInit: '[function] function(oe){oe.save=g,oe.getTextArea=function(){return s},oe.toTextArea=function(){oe.toTextArea=isNaN,g(),s.parentNode.removeChild(oe.getWrapperElement()),s.style.display="",s.form&&(ke(s.form,"submit",g),!u.leaveSubmitMethodAlone&&typeof s.form.submit=="function"&&(s.form.submit=_))}}',
+        indentUnit: 2,
+        smartIndent: true,
+        tabSize: 4,
+        lineSeparator: null,
+        specialChars: {},
+        specialCharPlaceholder: '[function] function si(s){var u=ee("span","\\u2022","cm-invalidchar");return u.title="\\\\u"+s.charCodeAt(0).toString(16),u.setAttribute("aria-label",u.title),u}',
+        electricChars: true,
+        inputStyle: 'textarea',
+        spellcheck: false,
+        autocorrect: false,
+        autocapitalize: false,
+        rtlMoveVisually: true,
+        wholeLineUpdateBefore: true,
+        theme: 'default',
+        configureMouse: null,
+        fixedGutter: true,
+        coverGutterNextToScrollbar: false,
+        firstLineNumber: 1,
+        lineNumberFormatter: '[function] function(g){return g}',
+        resetSelectionOnContextMenu: true,
+        lineWiseCopyCut: true,
+        pasteLinesPerSelection: true,
+        selectionsMayTouch: false,
+        screenReaderLabel: null,
+        disableInput: false,
+        dragDrop: true,
+        allowDropFileTypes: null,
+        cursorBlinkRate: 530,
+        cursorHeight: 1,
+        singleCursorHeightPerLine: true,
+        workTime: 100,
+        workDelay: 100,
+        flattenSpans: true,
+        addModeClass: false,
+        pollInterval: 100,
+        undoDepth: 200,
+        historyEventDelay: 1250,
+        maxHighlightLength: 10000,
+        moveInputWithCursor: true,
+        direction: 'ltr',
+        phrases: null,
+        foldOptions: null,
+        hintOptions: null,
+        search: { bottom: false },
+        scrollButtonHeight: 0,
+        vimMode: false,
+        info: false,
+        jump: false
+      },
+      display: {
+        input: {
+          prevInput: '',
+          pollingFast: false,
+          polling: {
+            id: 16355,
+            f: '[function] function(){s.poll(),s.cm.state.focused&&s.slowPoll()}',
+            time: 1690472159661,
+            handler: '[function] function(){return s.apply(null,u)}'
+          },
+          hasSelection: false,
+          composing: null,
+          wrapper: {},
+          textarea: { __sentry_instrumentation_handlers__: [Object] }
+        },
+        scrollbarFiller: {},
+        gutterFiller: {},
+        lineDiv: {},
+        selectionDiv: {},
+        cursorDiv: {},
+        measure: {},
+        lineMeasure: {},
+        lineSpace: {},
+        mover: {},
+        sizer: {},
+        sizerWidth: 399.34375,
+        heightForcer: {},
+        gutters: {},
+        lineGutter: null,
+        scroller: {},
+        wrapper: {},
+        viewTo: 1,
+        viewFrom: 0,
+        reportedViewTo: 1,
+        reportedViewFrom: 0,
+        view: [
+          {
+            size: 1,
+            text: {},
+            measure: [Object],
+            textClass: ' CodeMirror-line'
+          }
+        ],
+        externalMeasured: null,
+        viewOffset: 0,
+        lastWrapWidth: 376,
+        lastWrapHeight: 36,
+        updateLineNumbers: null,
+        barWidth: 0,
+        barHeight: 0,
+        nativeBarWidth: 7,
+        scrollbarsClipped: true,
+        lineNumChars: null,
+        lineNumInnerWidth: null,
+        lineNumWidth: null,
+        alignWidgets: false,
+        cachedPaddingH: { left: 4, right: 4 },
+        cachedTextHeight: 18.18,
+        cachedCharWidth: 6.8421875,
+        maxLineLength: 64,
+        maxLineChanged: false,
+        wheelStartY: null,
+        wheelStartX: null,
+        wheelDY: null,
+        wheelDX: null,
+        shift: false,
+        selForContextMenu: null,
+        activeTouch: null,
+        gutterSpecs: [],
+        externalMeasure: null,
+        scrollbars: {},
+        dragFunctions: {
+          enter: '[function] function(oe){Ae(s,oe)||or(oe)}',
+          over: '[function] function(oe){Ae(s,oe)||(oW(s,oe),or(oe))}',
+          start: '[function] function(oe){return iW(s,oe)}',
+          drop: '[function] function(){if(s.curOp)return u.apply(s,arguments);cf(s);try{return u.apply(s,arguments)}finally{uf(s)}}',
+          leave: '[function] function(oe){Ae(s,oe)||tP(s)}'
+        },
+        blinker: 16351
+      },
+      state: {
+        keyMaps: [
+          {
+            name: 'autocomplete-keymap',
+            "' '": '[function] function i(c){return n(c,()=>{const f=c.getCursor(),d=ir.Pos(f.line,f.ch-vN),p=c.getRange(d,f);return STe.test(p)},!0),ir.Pass}',
+            'Ctrl-Space': '[function] function o(c){return n(c,void 0,!0),ir.Pass}'
+          }
+        ],
+        overlays: [],
+        modeGen: 1,
+        overwrite: false,
+        delayingBlurEvent: false,
+        focused: true,
+        suppressEdits: false,
+        pasteIncoming: -1,
+        cutIncoming: -1,
+        selectingText: false,
+        draggingText: false,
+        highlight: {
+          id: 0,
+          f: '[function] function(){return s.apply(null,u)}',
+          time: 1690472156826,
+          handler: '[function] function(){return s.apply(null,u)}'
+        },
+        keySeq: null,
+        specialChars: {},
+        selectionPointer: {
+          value: 'default',
+          mousemove: '[function] function(p){r(c,p)}',
+          mouseout: '[function] function(p){i(c,p)}',
+          windowScroll: '[function] function(){o(c)}',
+          rects: [],
+          mouseX: 575,
+          mouseY: 62,
+          willUpdate: false
+        },
+        placeholderCompose: '[function] function(){o(f)}',
+        placeholder: null,
+        completionActive: null
+      },
+      curOp: null,
+      _handlers: {
+        cursorActivity: [
+          '[function] function o(c){c.state.selectionPointer.rects=null,a(c)}',
+          '[function] function () { [native code] }'
+        ],
+        scroll: [
+          '[function] function o(c){c.state.selectionPointer.rects=null,a(c)}'
+        ],
+        blur: [
+          '[function] function a(f){c(f)&&i(f)}',
+          '[function] ()=>{var O,D;return(D=(O=p.current)==null?void 0:O.getTextArea().parentElement)==null?void 0:D.removeAttribute("data-focused")}'
+        ],
+        change: [
+          '[function] function l(f){var d=f.getWrapperElement(),p=c(f);d.className=d.className.replace(" CodeMirror-empty","")+(p?" CodeMirror-empty":""),p?i(f):r(f)}',
+          '[function] (o,a)=>{(a.origin||"unknown").match(/^[+*]/)?i():r()}'
+        ],
+        swapDoc: [
+          '[function] function l(f){var d=f.getWrapperElement(),p=c(f);d.className=d.className.replace(" CodeMirror-empty","")+(p?" CodeMirror-empty":""),p?i(f):r(f)}'
+        ],
+        keydown: [
+          '[function] (c,f)=>{if(c.isHintDropdownActive()&&f.key==="Escape"){if(!c.state.completionActive)return;f.preventDefault(),f.stopPropagation(),c.state.completionActive.close()}f.metaKey||f.ctrlKey||f.altKey||f.key.length>1||(l!==null&&clearTimeout(l),t.autocompleteDelay>0&&(l=setTimeout(()=>{r(c)},t.autocompleteDelay)))}',
+          '[function] (O,D)=>{D.code==="Tab"&&(D.codemirrorIgnore=!0);const R={ctrl:D.ctrlKey,alt:D.altKey,shift:D.shiftKey,meta:D.metaKey,keyCode:D.keyCode},L=xv(R,h.hotKeyRegistry),K=xv(R,{showAutocomplete:h.hotKeyRegistry.showAutocomplete}),$=L&&!K,de=D.code==="Escape";$||de?D.codemirrorIgnore=!0:D.stopPropagation(),i&&!O.isHintDropdownActive()&&i(D,O.getValue())}'
+        ],
+        endCompletion: [ '[function] ()=>{l!==null&&clearTimeout(l)}' ],
+        beforeChange: [
+          '[function] (O,D)=>{var L;D.text&&D.text.length>1&&((L=D.update)==null||L.call(D,D.from,D.to,[D.text.join("").replace(/\\n/g," ")]))}'
+        ],
+        focus: [
+          '[function] ()=>{var O,D;return(D=(O=p.current)==null?void 0:O.getTextArea().parentElement)==null?void 0:D.setAttribute("data-focused","on")}'
+        ],
+        keyHandled: [ '[function] (O,D,R)=>R.stopPropagation()' ],
+        copy: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        cut: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        dragstart: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        viewportChange: [ '[function] function () { [native code] }' ],
+        changes: [ '[function] function () { [native code] }' ],
+        paste: [ '[function] (b,x)=>o==null?void 0:o(x)' ]
+      },
+      save: '[function] function g(){s.value=Z.getValue()}',
+      getTextArea: '[function] function(){return s}',
+      toTextArea: '[function] function(){oe.toTextArea=isNaN,g(),s.parentNode.removeChild(oe.getWrapperElement()),s.style.display="",s.form&&(ke(s.form,"submit",g),!u.leaveSubmitMethodAlone&&typeof s.form.submit=="function"&&(s.form.submit=_))}'
+    },
+    mode: {
+      startState: '[function] function(){return{base:n.startState(r),overlay:n.startState(i),basePos:0,baseCur:null,overlayPos:0,overlayCur:null,streamSeen:null}}',
+      copyState: '[function] function(a){return{base:n.copyState(r,a.base),overlay:n.copyState(i,a.overlay),basePos:a.basePos,baseCur:null,overlayPos:a.overlayPos,overlayCur:null}}',
+      token: '[function] function(a,l){return(a!=l.streamSeen||Math.min(l.basePos,l.overlayPos)<a.start)&&(l.streamSeen=a,l.basePos=l.overlayPos=a.start),a.start==l.basePos&&(l.baseCur=r.token(a,l.base),l.basePos=a.pos),a.start==l.overlayPos&&(a.pos=a.start,l.overlayCur=i.token(a,l.overlay),l.overlayPos=a.pos),a.pos=Math.min(l.basePos,l.overlayPos),l.overlayCur==null?l.baseCur:l.baseCur!=null&&l.overlay.combineTokens||o&&l.overlay.combineTokens==null?l.baseCur+" "+l.overlayCur:l.overlayCur}',
+      innerMode: '[function] function(a){return{state:a.base,mode:r}}',
+      blankLine: '[function] function(a){var l,c;return r.blankLine&&(l=r.blankLine(a.base)),i.blankLine&&(c=i.blankLine(a.overlay)),c==null?l:o&&l!=null?l+" "+c:c}',
+      name: 'nunjucks'
+    }
+  },
+  id: 105,
+  __nunjucks: true,
+  __template: '{{{ _.PORT_LOCAL }}',
+  handleMouseEvents: false,
+  replacedWith: {
+    __sentry_instrumentation_handlers__: {
+      click: {
+        refCount: 1,
+        handler: '[function] function (event) {\n' +
+          "        // It's possible this handler might trigger multiple times for the same\n" +
+          '        // event (e.g. event propagation through node ancestors).\n' +
+          "        // Ignore if we've already captured that event.\n" +
+          '        if (!event || lastCapturedEvent === event) {\n' +
+          '            return;\n' +
+          '        }\n' +
+          '        // We always want to skip _some_ events.\n' +
+          '        if (shouldSkipDOMEvent(event)) {\n' +
+          '            return;\n' +
+          '        }\n' +
+          "        var name = event.type === 'keypress' ? 'input' : event.type;\n" +
+          '        // If there is no debounce timer, it means that we can safely capture the new event and store it for future comparisons.\n' +
+          '        if (debounceTimerID === undefined) {\n' +
+          '            handler({\n' +
+          '                event: event,\n' +
+          '                name: name,\n' +
+          '                global: globalListener,\n' +
+          '            });\n' +
+          '            lastCapturedEvent = event;\n' +
+          '        }\n' +
+          '        // If there is a debounce awaiting, see if the new event is different enough to treat it as a unique one.\n' +
+          "        // If that's the case, emit the previous event and store locally the newly-captured DOM event.\n" +
+          '        else if (shouldShortcircuitPreviousDebounce(lastCapturedEvent, event)) {\n' +
+          '            handler({\n' +
+          '                event: event,\n' +
+          '                name: name,\n' +
+          '                global: globalListener,\n' +
+          '            });\n' +
+          '            lastCapturedEvent = event;\n' +
+          '        }\n' +
+          '        // Start a new debounce timer that will prevent us from capturing multiple events that should be grouped together.\n' +
+          '        clearTimeout(debounceTimerID);\n' +
+          '        debounceTimerID = global.setTimeout(function () {\n' +
+          '            debounceTimerID = undefined;\n' +
+          '        }, debounceDuration);\n' +
+          '    }'
+      }
+    }
+  },
+  collapsed: true,
+  widgetNode: {},
+  atomic: true
+}
+[2023-07-27 10:36:19.480] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:36:19.604] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:36:40.030] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:36:40.156] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:36:52.403] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:36:52.574] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:38:03.413] [warn]  Tried to replace mark that did not exist {
+  lines: [],
+  type: 'range',
+  doc: {
+    children: [
+      {
+        lines: [
+          {
+            text: 'localhost:{{ _.PORT_LOCAL }}/api/v2/pokemon?offset=0&limit=20',
+            height: 18.1875,
+            stateAfter: [Object],
+            styles: [Array],
+            order: false,
+            markedSpans: [Array]
+          }
+        ],
+        height: 18.1875
+      }
+    ],
+    size: 1,
+    height: 18.1875,
+    parent: null,
+    first: 0,
+    scrollLeft: 0,
+    scrollTop: 0,
+    cantEdit: false,
+    cleanGeneration: 1,
+    highlightFrontier: 1,
+    modeFrontier: 1,
+    sel: {
+      ranges: [ { anchor: { line: 0, ch: 28, sticky: null } } ],
+      primIndex: 0
+    },
+    history: {
+      done: [
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 2 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        {
+          changes: [ [Object], [Object], [Object], [Object] ],
+          generation: 6
+        },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 10 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 13 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { changes: [ [Object] ], generation: 23 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 24 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 25 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        { changes: [ [Object] ], generation: 26 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 27 },
+        { ranges: [ [Object] ], primIndex: 0, shift: false },
+        {
+          changes: [ [Object], [Object], [Object], [Object] ],
+          generation: 44
+        },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 48 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        { ranges: [ [Object] ], primIndex: 0 },
+        null
+      ],
+      undone: [
+        { ranges: [ [Object] ], primIndex: 0 },
+        { changes: [ [Object] ], generation: 50 }
+      ],
+      undoDepth: 200,
+      lastSelTime: 1690472210468,
+      lastModTime: 1690472208223,
+      lastSelOp: 2375,
+      lastOp: 2369,
+      lastSelOrigin: '+move',
+      lastOrigin: null,
+      maxGeneration: 50,
+      generation: 49
+    },
+    id: 122,
+    modeOption: { name: 'nunjucks', baseMode: 'text/plain' },
+    lineSep: null,
+    direction: 'ltr',
+    extend: false,
+    cm: {
+      options: {
+        lineNumbers: false,
+        placeholder: 'https://api.myproduct.com/v1/users',
+        foldGutter: false,
+        autoRefresh: { delay: 2000 },
+        lineWrapping: false,
+        scrollbarStyle: 'null',
+        lint: false,
+        matchBrackets: false,
+        autoCloseBrackets: false,
+        viewportMargin: 30,
+        readOnly: false,
+        tabindex: 0,
+        selectionPointer: 'default',
+        styleActiveLine: false,
+        indentWithTabs: false,
+        showCursorWhenSelecting: false,
+        cursorScrollMargin: 12,
+        keyMap: 'default',
+        extraKeys: { 'Ctrl-Space': 'autocomplete' },
+        gutters: [],
+        environmentAutocomplete: {
+          getVariables: '[function] async()=>{var O;return S?((O=await S())==null?void 0:O.keys)||[]:[]}',
+          getTags: '[function] async()=>S?(await yv()).map(k).flat():[]',
+          getConstants: '[function] ()=>_s(s._id,we.type,a==null?void 0:a._id)',
+          hotKeyRegistry: {
+            workspace_showSettings: [Object],
+            request_showSettings: [Object],
+            preferences_showKeyboardShortcuts: [Object],
+            preferences_showGeneral: [Object],
+            request_quickSwitch: [Object],
+            request_showRecent: [Object],
+            request_showRecentPrevious: [Object],
+            plugin_reload: [Object],
+            showAutocomplete: [Object],
+            request_send: [Object],
+            request_showOptions: [Object],
+            environment_showEditor: [Object],
+            environment_showSwitchMenu: [Object],
+            request_toggleHttpMethodMenu: [Object],
+            request_toggleHistory: [Object],
+            request_focusUrl: [Object],
+            request_showGenerateCodeEditor: [Object],
+            sidebar_focusFilter: [Object],
+            sidebar_toggle: [Object],
+            response_focus: [Object],
+            showCookiesEditor: [Object],
+            request_createHTTP: [Object],
+            request_showDelete: [Object],
+            request_showCreateFolder: [Object],
+            request_showDuplicate: [Object],
+            request_togglePin: [Object],
+            environment_showVariableSourceAndValue: [Object],
+            beautifyRequestBody: [Object],
+            graphql_explorer_focus_filter: [Object]
+          },
+          autocompleteDelay: 1100
+        },
+        value: '',
+        autofocus: false,
+        finishInit: '[function] function(oe){oe.save=g,oe.getTextArea=function(){return s},oe.toTextArea=function(){oe.toTextArea=isNaN,g(),s.parentNode.removeChild(oe.getWrapperElement()),s.style.display="",s.form&&(ke(s.form,"submit",g),!u.leaveSubmitMethodAlone&&typeof s.form.submit=="function"&&(s.form.submit=_))}}',
+        indentUnit: 2,
+        smartIndent: true,
+        tabSize: 4,
+        lineSeparator: null,
+        specialChars: {},
+        specialCharPlaceholder: '[function] function si(s){var u=ee("span","\\u2022","cm-invalidchar");return u.title="\\\\u"+s.charCodeAt(0).toString(16),u.setAttribute("aria-label",u.title),u}',
+        electricChars: true,
+        inputStyle: 'textarea',
+        spellcheck: false,
+        autocorrect: false,
+        autocapitalize: false,
+        rtlMoveVisually: true,
+        wholeLineUpdateBefore: true,
+        theme: 'default',
+        configureMouse: null,
+        fixedGutter: true,
+        coverGutterNextToScrollbar: false,
+        firstLineNumber: 1,
+        lineNumberFormatter: '[function] function(g){return g}',
+        resetSelectionOnContextMenu: true,
+        lineWiseCopyCut: true,
+        pasteLinesPerSelection: true,
+        selectionsMayTouch: false,
+        screenReaderLabel: null,
+        disableInput: false,
+        dragDrop: true,
+        allowDropFileTypes: null,
+        cursorBlinkRate: 530,
+        cursorHeight: 1,
+        singleCursorHeightPerLine: true,
+        workTime: 100,
+        workDelay: 100,
+        flattenSpans: true,
+        addModeClass: false,
+        pollInterval: 100,
+        undoDepth: 200,
+        historyEventDelay: 1250,
+        maxHighlightLength: 10000,
+        moveInputWithCursor: true,
+        direction: 'ltr',
+        phrases: null,
+        foldOptions: null,
+        hintOptions: null,
+        search: { bottom: false },
+        scrollButtonHeight: 0,
+        vimMode: false,
+        info: false,
+        jump: false
+      },
+      display: {
+        input: {
+          prevInput: '',
+          pollingFast: false,
+          polling: {
+            id: 0,
+            f: '[function] function(){s.poll(),s.cm.state.focused&&s.slowPoll()}',
+            time: 1690472212358,
+            handler: '[function] function(){return s.apply(null,u)}'
+          },
+          hasSelection: false,
+          composing: null,
+          wrapper: {},
+          textarea: { __sentry_instrumentation_handlers__: [Object] }
+        },
+        scrollbarFiller: {},
+        gutterFiller: {},
+        lineDiv: {},
+        selectionDiv: {},
+        cursorDiv: {},
+        measure: {},
+        lineMeasure: {},
+        lineSpace: {},
+        mover: {},
+        sizer: {},
+        sizerWidth: 363.0625,
+        heightForcer: {},
+        gutters: {},
+        lineGutter: null,
+        scroller: {},
+        wrapper: {},
+        viewTo: 1,
+        viewFrom: 0,
+        reportedViewTo: 1,
+        reportedViewFrom: 0,
+        view: [
+          {
+            size: 1,
+            text: {},
+            measure: [Object],
+            textClass: ' CodeMirror-line',
+            changes: null
+          }
+        ],
+        externalMeasured: null,
+        viewOffset: 0,
+        lastWrapWidth: 376,
+        lastWrapHeight: 36,
+        updateLineNumbers: null,
+        barWidth: 0,
+        barHeight: 0,
+        nativeBarWidth: 7,
+        scrollbarsClipped: true,
+        lineNumChars: null,
+        lineNumInnerWidth: null,
+        lineNumWidth: null,
+        alignWidgets: false,
+        cachedPaddingH: { left: 4, right: 4 },
+        cachedTextHeight: 18.18,
+        cachedCharWidth: 6.8421875,
+        maxLineLength: 61,
+        maxLineChanged: false,
+        wheelStartY: null,
+        wheelStartX: null,
+        wheelDY: null,
+        wheelDX: null,
+        shift: false,
+        selForContextMenu: null,
+        activeTouch: null,
+        gutterSpecs: [],
+        externalMeasure: null,
+        scrollbars: {},
+        dragFunctions: {
+          enter: '[function] function(oe){Ae(s,oe)||or(oe)}',
+          over: '[function] function(oe){Ae(s,oe)||(oW(s,oe),or(oe))}',
+          start: '[function] function(oe){return iW(s,oe)}',
+          drop: '[function] function(){if(s.curOp)return u.apply(s,arguments);cf(s);try{return u.apply(s,arguments)}finally{uf(s)}}',
+          leave: '[function] function(oe){Ae(s,oe)||tP(s)}'
+        },
+        blinker: 17845
+      },
+      state: {
+        keyMaps: [
+          {
+            name: 'autocomplete-keymap',
+            "' '": '[function] function i(c){return n(c,()=>{const f=c.getCursor(),d=ir.Pos(f.line,f.ch-vN),p=c.getRange(d,f);return STe.test(p)},!0),ir.Pass}',
+            'Ctrl-Space': '[function] function o(c){return n(c,void 0,!0),ir.Pass}'
+          }
+        ],
+        overlays: [],
+        modeGen: 1,
+        overwrite: false,
+        delayingBlurEvent: false,
+        focused: false,
+        suppressEdits: false,
+        pasteIncoming: -1,
+        cutIncoming: -1,
+        selectingText: false,
+        draggingText: false,
+        highlight: {
+          id: 0,
+          f: '[function] function(){return s.apply(null,u)}',
+          time: 1690472209543,
+          handler: '[function] function(){return s.apply(null,u)}'
+        },
+        keySeq: null,
+        specialChars: {},
+        selectionPointer: {
+          value: 'default',
+          mousemove: '[function] function(p){r(c,p)}',
+          mouseout: '[function] function(p){i(c,p)}',
+          windowScroll: '[function] function(){o(c)}',
+          rects: [],
+          mouseX: null,
+          mouseY: null,
+          willUpdate: false
+        },
+        placeholderCompose: '[function] function(){o(f)}',
+        placeholder: null,
+        completionActive: null
+      },
+      curOp: null,
+      _handlers: {
+        cursorActivity: [
+          '[function] function o(c){c.state.selectionPointer.rects=null,a(c)}',
+          '[function] function () { [native code] }'
+        ],
+        scroll: [
+          '[function] function o(c){c.state.selectionPointer.rects=null,a(c)}'
+        ],
+        blur: [
+          '[function] function a(f){c(f)&&i(f)}',
+          '[function] ()=>{var O,D;return(D=(O=p.current)==null?void 0:O.getTextArea().parentElement)==null?void 0:D.removeAttribute("data-focused")}'
+        ],
+        change: [
+          '[function] function l(f){var d=f.getWrapperElement(),p=c(f);d.className=d.className.replace(" CodeMirror-empty","")+(p?" CodeMirror-empty":""),p?i(f):r(f)}',
+          '[function] (o,a)=>{(a.origin||"unknown").match(/^[+*]/)?i():r()}'
+        ],
+        swapDoc: [
+          '[function] function l(f){var d=f.getWrapperElement(),p=c(f);d.className=d.className.replace(" CodeMirror-empty","")+(p?" CodeMirror-empty":""),p?i(f):r(f)}'
+        ],
+        keydown: [
+          '[function] (c,f)=>{if(c.isHintDropdownActive()&&f.key==="Escape"){if(!c.state.completionActive)return;f.preventDefault(),f.stopPropagation(),c.state.completionActive.close()}f.metaKey||f.ctrlKey||f.altKey||f.key.length>1||(l!==null&&clearTimeout(l),t.autocompleteDelay>0&&(l=setTimeout(()=>{r(c)},t.autocompleteDelay)))}',
+          '[function] (O,D)=>{D.code==="Tab"&&(D.codemirrorIgnore=!0);const R={ctrl:D.ctrlKey,alt:D.altKey,shift:D.shiftKey,meta:D.metaKey,keyCode:D.keyCode},L=xv(R,h.hotKeyRegistry),K=xv(R,{showAutocomplete:h.hotKeyRegistry.showAutocomplete}),$=L&&!K,de=D.code==="Escape";$||de?D.codemirrorIgnore=!0:D.stopPropagation(),i&&!O.isHintDropdownActive()&&i(D,O.getValue())}'
+        ],
+        endCompletion: [ '[function] ()=>{l!==null&&clearTimeout(l)}' ],
+        beforeChange: [
+          '[function] (O,D)=>{var L;D.text&&D.text.length>1&&((L=D.update)==null||L.call(D,D.from,D.to,[D.text.join("").replace(/\\n/g," ")]))}'
+        ],
+        focus: [
+          '[function] ()=>{var O,D;return(D=(O=p.current)==null?void 0:O.getTextArea().parentElement)==null?void 0:D.setAttribute("data-focused","on")}'
+        ],
+        keyHandled: [ '[function] (O,D,R)=>R.stopPropagation()' ],
+        copy: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        cut: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        dragstart: [
+          '[function] (O,D)=>(c==null?void 0:c.toLowerCase())==="password"&&D.preventDefault()'
+        ],
+        viewportChange: [ '[function] function () { [native code] }' ],
+        changes: [ '[function] function () { [native code] }' ],
+        paste: [ '[function] (b,x)=>o==null?void 0:o(x)' ]
+      },
+      save: '[function] function g(){s.value=Z.getValue()}',
+      getTextArea: '[function] function(){return s}',
+      toTextArea: '[function] function(){oe.toTextArea=isNaN,g(),s.parentNode.removeChild(oe.getWrapperElement()),s.style.display="",s.form&&(ke(s.form,"submit",g),!u.leaveSubmitMethodAlone&&typeof s.form.submit=="function"&&(s.form.submit=_))}'
+    },
+    mode: {
+      startState: '[function] function(){return{base:n.startState(r),overlay:n.startState(i),basePos:0,baseCur:null,overlayPos:0,overlayCur:null,streamSeen:null}}',
+      copyState: '[function] function(a){return{base:n.copyState(r,a.base),overlay:n.copyState(i,a.overlay),basePos:a.basePos,baseCur:null,overlayPos:a.overlayPos,overlayCur:null}}',
+      token: '[function] function(a,l){return(a!=l.streamSeen||Math.min(l.basePos,l.overlayPos)<a.start)&&(l.streamSeen=a,l.basePos=l.overlayPos=a.start),a.start==l.basePos&&(l.baseCur=r.token(a,l.base),l.basePos=a.pos),a.start==l.overlayPos&&(a.pos=a.start,l.overlayCur=i.token(a,l.overlay),l.overlayPos=a.pos),a.pos=Math.min(l.basePos,l.overlayPos),l.overlayCur==null?l.baseCur:l.baseCur!=null&&l.overlay.combineTokens||o&&l.overlay.combineTokens==null?l.baseCur+" "+l.overlayCur:l.overlayCur}',
+      innerMode: '[function] function(a){return{state:a.base,mode:r}}',
+      blankLine: '[function] function(a){var l,c;return r.blankLine&&(l=r.blankLine(a.base)),i.blankLine&&(c=i.blankLine(a.overlay)),c==null?l:o&&l!=null?l+" "+c:c}',
+      name: 'nunjucks'
+    }
+  },
+  id: 107,
+  __nunjucks: true,
+  __template: '{{{ _.PORT_LOCAL }}',
+  handleMouseEvents: false,
+  replacedWith: {
+    __sentry_instrumentation_handlers__: {
+      click: {
+        refCount: 1,
+        handler: '[function] function (event) {\n' +
+          "        // It's possible this handler might trigger multiple times for the same\n" +
+          '        // event (e.g. event propagation through node ancestors).\n' +
+          "        // Ignore if we've already captured that event.\n" +
+          '        if (!event || lastCapturedEvent === event) {\n' +
+          '            return;\n' +
+          '        }\n' +
+          '        // We always want to skip _some_ events.\n' +
+          '        if (shouldSkipDOMEvent(event)) {\n' +
+          '            return;\n' +
+          '        }\n' +
+          "        var name = event.type === 'keypress' ? 'input' : event.type;\n" +
+          '        // If there is no debounce timer, it means that we can safely capture the new event and store it for future comparisons.\n' +
+          '        if (debounceTimerID === undefined) {\n' +
+          '            handler({\n' +
+          '                event: event,\n' +
+          '                name: name,\n' +
+          '                global: globalListener,\n' +
+          '            });\n' +
+          '            lastCapturedEvent = event;\n' +
+          '        }\n' +
+          '        // If there is a debounce awaiting, see if the new event is different enough to treat it as a unique one.\n' +
+          "        // If that's the case, emit the previous event and store locally the newly-captured DOM event.\n" +
+          '        else if (shouldShortcircuitPreviousDebounce(lastCapturedEvent, event)) {\n' +
+          '            handler({\n' +
+          '                event: event,\n' +
+          '                name: name,\n' +
+          '                global: globalListener,\n' +
+          '            });\n' +
+          '            lastCapturedEvent = event;\n' +
+          '        }\n' +
+          '        // Start a new debounce timer that will prevent us from capturing multiple events that should be grouped together.\n' +
+          '        clearTimeout(debounceTimerID);\n' +
+          '        debounceTimerID = global.setTimeout(function () {\n' +
+          '            debounceTimerID = undefined;\n' +
+          '        }, debounceDuration);\n' +
+          '    }'
+      }
+    }
+  },
+  collapsed: true,
+  widgetNode: {},
+  atomic: true
+}
+[2023-07-27 10:38:08.493] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:38:08.694] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:39:18.981] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:39:19.208] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:39:20.485] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:39:20.757] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:39:39.164] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:39:39.301] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Couldn't connect to server
+[2023-07-27 10:39:51.376] [info]  [network] Sending req=req_fafb4c02a3644beebfe2676034942fb7 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:39:51.517] [info]  [network] Response failed req=req_fafb4c02a3644beebfe2676034942fb7 err=Error: Couldn't connect to server
+[2023-07-27 10:40:17.473] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:40:24.612] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:40:27.235] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:40:30.441] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:40:32.820] [error] Error: No importers found for file
+    at Xpe (file:///opt/Insomnia/resources/app.asar/index.49db83e9.js:80:42985)
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6530
+    at async file:///opt/Insomnia/resources/app.asar/debug.8a45dbf1.js:37:6901
+[2023-07-27 10:42:39.455] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:39.615] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:42:40.486] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:40.657] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:42:42.518] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:42.742] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:42.756] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:42:42.959] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:42:42.961] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:43.173] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:42:43.752] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:42:43.914] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 10:49:56.833] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:49:57.213] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 10:49:58.302] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:49:58.452] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 10:50:24.846] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:50:25.071] [info]  [network] Response failed req=req_fd91ca188d0e401a929442c82b1d31db err=Error: Failed sending data to the peer
+[2023-07-27 10:50:25.785] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:50:25.955] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:50:27.069] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:50:27.225] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 10:50:28.073] [info]  [network] Sending req=req_fd91ca188d0e401a929442c82b1d31db env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 10:50:28.203] [info]  [network] Response succeeded req=req_fd91ca188d0e401a929442c82b1d31db status=200
+[2023-07-27 11:25:29.484] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:25:29.671] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 11:25:30.329] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:25:30.464] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 11:25:30.998] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:25:31.166] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 11:25:31.749] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:25:31.896] [info]  [network] Response failed req=req_727f1272148d4234bf89ce5a534fdd18 err=Error: Couldn't connect to server
+[2023-07-27 11:27:07.540] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:27:07.726] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 11:27:08.522] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:27:08.771] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 11:27:09.447] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:27:09.615] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200
+[2023-07-27 11:29:26.266] [info]  [network] Sending req=req_727f1272148d4234bf89ce5a534fdd18 env=env_f2688e73b937454795334d0f0fc5751c
+[2023-07-27 11:29:26.441] [info]  [network] Response succeeded req=req_727f1272148d4234bf89ce5a534fdd18 status=200

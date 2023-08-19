@@ -20,14 +20,15 @@
 				"redhat.vscode-yaml",
 				"EditorConfig.EditorConfig",
 				"HashiCorp.terraform",
-				"aaron-bond.better-comments"
+				"aaron-bond.better-comments",
+				"enkia.tokyo-night"
 			],
 			"settings": {
 				// Configure settings to be overridden for the dockercompose language.
 				"editor.tabSize": 2,
 
 				// Specifies the color theme used in the workbench.
-				"workbench.colorTheme": "Default Dark+ Experimental",
+				"workbench.colorTheme": "Tokyo Night",
 
 				// Specifies the file icon theme used in the workbench or 'null' to not show any file icons.
 				//  - null: No file icons
@@ -51,7 +52,77 @@
 				//  - on: Lines will wrap at the viewport width.
 				//  - wordWrapColumn: Lines will wrap at `editor.wordWrapColumn`.
 				//  - bounded: Lines will wrap at the minimum of viewport and `editor.wordWrapColumn`.
-				"editor.wordWrap": "on"
+				"editor.wordWrap": "on",
+
+				// Config TODO Highlight
+				"todohighlight.keywords": [
+					"DEBUG:",
+					"REVIEW:",
+					{
+						"text": "TODO:",
+						"color": "#5daf4e",
+						"border": "1px solid #5daf4e",
+						"borderRadius": "2px", //TODO: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "FIXME:",
+						"color": "#e10f40",
+						"border": "1px solid #e10f40",
+						"borderRadius": "2px", //FIXME: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "DEBUG:",
+						"color": "#af09e0",
+						"border": "1px solid #af09e0",
+						"borderRadius": "2px", //DEBUG: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "REVIEW:",
+						"color": "#079de2",
+						"border": "1px solid #079de2",
+						"borderRadius": "2px", //REVIEW: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "HACK:",
+						"color": "#3b4fa4",
+						"border": "1px solid #3b4fa4",
+						"borderRadius": "2px", //HACK: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "NOTE:",
+						"color": "#4e7580",
+						"border": "1px solid #4e7580",
+						"borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "WARNING:",
+						"color": "#ddbc08",
+						"border": "1px solid #ddbc08",
+						"borderRadius": "2px", //WARNING: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+					{
+						"text": "DANGER:",
+						"color": "red",
+						"border": "1px solid red",
+						"borderRadius": "2px", //DANGER: using borderRadius along with `border` or you will see nothing change
+						"backgroundColor": "rgba(0,0,0,.2)",
+						//other styling properties goes here ... 
+					},
+				]
 			}
 		}
 	},

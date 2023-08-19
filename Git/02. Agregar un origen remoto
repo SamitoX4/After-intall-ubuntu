@@ -19,9 +19,15 @@ Las actividades para hacer el agregado de origen remoto son las siguientes:
 - Agregar el repositorio remoto con el siguiente comando:
 
     git remote add origin https://github.com/owner/repo.git
-    
-    git remote add origin https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git
 
-  Nota: El segundo comando aun no se prueba con el comando de credenciales asi
-        que, queda pendiente utilizar el comando (21/02/2023 no se utiliza y no
-        se fijo fecha de prueba).
+Para utilizar el "Fine-grained personal access tokens" se tiene que:
+
+1. Crear el repositorio en GitHub.
+2. Clonar el repositorio desde GitHub con el siguiente comando:
+
+  `git clone https://oauth2:<your-fine-grained-token>@github.com/owner/repo.git`
+
+Nota: No se encontro otro metodo para abarcar el tema de token tipo
+      "Fine-grained personal access tokens".
+Nota: Luego de clonar el repositorio vacio, poner todo los archivos
+      de la plantilla (chancar archivos).

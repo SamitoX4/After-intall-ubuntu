@@ -1,9 +1,3 @@
-2023/03/08-10:19:04.369 147b9 Reusing MANIFEST /home/blacky/.config/Altair GraphQL Client/IndexedDB/altair_-_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/08-10:19:04.370 147b9 Recovering log #73
-2023/03/08-10:19:04.372 147b9 Reusing old log /home/blacky/.config/Altair GraphQL Client/IndexedDB/altair_-_0.indexeddb.leveldb/000073.log 
-2023/03/08-10:20:05.538 147bd Compacting 1@1 + 1@2 files
-2023/03/08-10:20:05.541 147bd Generated table #76@1: 130 keys, 35213 bytes
-2023/03/08-10:20:05.541 147bd Compacted 1@1 + 1@2 files => 35213 bytes
-2023/03/08-10:20:05.542 147bd compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/03/08-10:20:05.542 147bd Delete type=2 #74
-2023/03/08-10:20:05.542 147bd Delete type=2 #71
+2023/07/27-13:59:33.993 1e24 Reusing MANIFEST /home/blacky/.config/Altair GraphQL Client/IndexedDB/altair_-_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-13:59:33.993 1e24 Recovering log #136
+2023/07/27-13:59:34.003 1e24 Reusing old log /home/blacky/.config/Altair GraphQL Client/IndexedDB/altair_-_0.indexeddb.leveldb/000136.log 

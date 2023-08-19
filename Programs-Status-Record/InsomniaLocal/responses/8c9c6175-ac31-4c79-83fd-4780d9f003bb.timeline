@@ -1,0 +1,117 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/brands/32131",
+		"name": "Text",
+		"timestamp": 1686486259060
+	},
+	{
+		"value": "Current time is 2023-06-11T12:24:19.060Z",
+		"name": "Text",
+		"timestamp": 1686486259060
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1686486259060
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1686486259062
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1686486259062
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "Text",
+		"value": "Found bundle for host localhost: 0x198c034a4a50 [serially]\n",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "Text",
+		"value": "Can not multiplex, even if we wanted to!\n",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "Text",
+		"value": "Re-using existing connection! (#3) with host localhost\n",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#3)\n",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "HeaderOut",
+		"value": "PATCH /brands/32131 HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nAccept: */*\r\nContent-Length: 0\r\n\r\n",
+		"timestamp": 1686486259062
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 34\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"22-lGbWJPbrU0ZF1/ik/kA8kWJ+V1E\"\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Sun, 11 Jun 2023 12:24:19 GMT\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "Text",
+		"value": "Received 34 B chunk",
+		"timestamp": 1686486259065
+	},
+	{
+		"name": "Text",
+		"value": "Connection #3 to host localhost left intact\n",
+		"timestamp": 1686486259065
+	}
+]

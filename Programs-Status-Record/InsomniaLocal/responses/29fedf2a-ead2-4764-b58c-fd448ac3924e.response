@@ -1,0 +1,1 @@
+{"statusCode":400,"message":["property modeL should not exist","property banana should not exist","property puertas should not exist","model must be a string"],"error":"Bad Request"}

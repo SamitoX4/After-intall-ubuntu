@@ -1,0 +1,4 @@
+# Next Line is add to nestjs, yarn and node
+
+# Nest cli
+RUN su node -c "npm i -g @nestjs/cli"

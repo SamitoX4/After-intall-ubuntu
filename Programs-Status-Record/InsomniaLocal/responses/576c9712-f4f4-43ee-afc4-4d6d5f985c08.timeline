@@ -1,0 +1,127 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/brands/ede9d870-c2a6-476d-b39d-6d7b10e0c8a5",
+		"name": "Text",
+		"timestamp": 1686489454000
+	},
+	{
+		"value": "Current time is 2023-06-11T13:17:34.000Z",
+		"name": "Text",
+		"timestamp": 1686489454000
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1686489454000
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1686489454002
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1686489454002
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "Connection 22 seems to be dead!\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 22\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "Hostname localhost was found in DNS cache\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#23)\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "HeaderOut",
+		"value": "PATCH /brands/ede9d870-c2a6-476d-b39d-6d7b10e0c8a5 HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nContent-Type: application/x-www-form-urlencoded\r\nAccept: */*\r\nContent-Length: 9\r\n\r\n",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "DataOut",
+		"value": "name=Jeep",
+		"timestamp": 1686489454002
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 113\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"71-/L2IAfh/kvKsAxfGNXY4N3uKf2M\"\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Sun, 11 Jun 2023 13:17:34 GMT\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "Text",
+		"value": "Received 113 B chunk",
+		"timestamp": 1686489454270
+	},
+	{
+		"name": "Text",
+		"value": "Connection #23 to host localhost left intact\n",
+		"timestamp": 1686489454270
+	}
+]

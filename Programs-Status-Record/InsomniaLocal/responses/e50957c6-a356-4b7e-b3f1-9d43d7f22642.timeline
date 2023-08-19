@@ -1,0 +1,77 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3200/api/v2/pokemon?offset=0&limit=20",
+		"name": "Text",
+		"timestamp": 1690467208768
+	},
+	{
+		"value": "Current time is 2023-07-27T14:13:28.768Z",
+		"name": "Text",
+		"timestamp": 1690467208768
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690467208768
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690467208769
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690467208769
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690467208769
+	},
+	{
+		"name": "Text",
+		"value": "Connection 38 seems to be dead!\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 38\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "Hostname localhost was found in DNS cache\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3200...\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 3200 failed: Connection refused\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:3200...\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 3200 failed: Connection refused\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 3200 after 0 ms: Connection refused\n",
+		"timestamp": 1690467208770
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 39\n",
+		"timestamp": 1690467208770
+	}
+]

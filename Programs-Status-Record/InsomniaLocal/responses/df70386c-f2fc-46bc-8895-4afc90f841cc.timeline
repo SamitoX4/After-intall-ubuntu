@@ -1,0 +1,127 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/cars",
+		"name": "Text",
+		"timestamp": 1686392258641
+	},
+	{
+		"value": "Current time is 2023-06-10T10:17:38.641Z",
+		"name": "Text",
+		"timestamp": 1686392258641
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1686392258641
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1686392258642
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1686392258642
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1686392258642
+	},
+	{
+		"name": "Text",
+		"value": "Connection 49 seems to be dead!\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 49\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "Text",
+		"value": "Hostname localhost was found in DNS cache\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "Text",
+		"value": "Connected to localhost (127.0.0.1) port 3000 (#50)\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "HeaderOut",
+		"value": "GET /cars HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2022.7.5\r\nContent-Type: application/x-www-form-urlencoded\r\nAccept: */*\r\nContent-Length: 24\r\n\r\n",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "DataOut",
+		"value": "cuerpo=Hola+en+el+cuerpo",
+		"timestamp": 1686392258643
+	},
+	{
+		"name": "Text",
+		"value": "Mark bundle as not supporting multiuse\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "X-Powered-By: Express\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Content-Length: 239\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "ETag: W/\"ef-rVkGhcXH2VvaCI8k26ghNF/07h0\"\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Date: Sat, 10 Jun 2023 10:17:38 GMT\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "Keep-Alive: timeout=5\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "HeaderIn",
+		"value": "\r\n",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "Text",
+		"value": "Received 239 B chunk",
+		"timestamp": 1686392258914
+	},
+	{
+		"name": "Text",
+		"value": "Connection #50 to host localhost left intact\n",
+		"timestamp": 1686392258914
+	}
+]

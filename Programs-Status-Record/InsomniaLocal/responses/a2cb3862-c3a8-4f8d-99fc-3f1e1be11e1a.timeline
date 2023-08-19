@@ -1,0 +1,77 @@
+[
+	{
+		"value": "Preparing request to http://localhost/:$%7BPORT_LOCAL%7D/api/v2/pokemon?offset=0&limit=20",
+		"name": "Text",
+		"timestamp": 1690472152030
+	},
+	{
+		"value": "Current time is 2023-07-27T15:35:52.030Z",
+		"name": "Text",
+		"timestamp": 1690472152030
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690472152030
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690472152031
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690472152031
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690472152031
+	},
+	{
+		"name": "Text",
+		"value": "Too old connection (279 seconds), disconnect it\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "Connection 49 seems to be dead!\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 49\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:80...\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 80 failed: Connection refused\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:80...\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 80 failed: Connection refused\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 80 after 1 ms: Connection refused\n",
+		"timestamp": 1690472152033
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 50\n",
+		"timestamp": 1690472152033
+	}
+]

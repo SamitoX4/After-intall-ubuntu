@@ -1,13 +1,180 @@
-[2023-02-25 06:24:00.713] [info]  Running version 2022.7.5
-[2023-02-25 06:24:00.726] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
-[2023-02-25 06:24:00.736] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
-[2023-02-25 06:24:00.771] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+[2023-07-27 08:05:05.422] [info]  Running version 2022.7.5
+[2023-07-27 08:05:05.434] [error] [electron client protocol] FAILED to set default protocol 'insomnia://'
+[2023-07-27 08:05:05.444] [info]  [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+[2023-07-27 08:05:05.477] [info]  [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
 '
-[2023-02-25 06:24:01.123] [info]  [fix] Running database repairs
-[2023-02-25 06:24:01.166] [info]  [db] Initialized DB at /home/blacky/.config/Insomnia/insomnia.$TYPE.db
-[2023-02-25 06:24:01.166] [info]  [db] Init responses DB
-[2023-02-25 06:24:01.167] [info]  [db] Init websocket-responses DB
-[2023-02-25 06:24:01.177] [info]  [localstorage] Initialized at /home/blacky/.config/Insomnia/localStorage
-[2023-02-25 06:24:01.435] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
-[2023-02-25 06:24:02.041] [info]  [updater] Updater not running platform=linux dev=false
-[2023-02-25 06:24:08.189] [info]  [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+[2023-07-27 08:05:05.674] [info]  [fix] Running database repairs
+[2023-07-27 08:05:05.820] [info]  [db] Initialized DB at /home/blacky/.config/Insomnia/insomnia.$TYPE.db
+[2023-07-27 08:05:05.821] [info]  [db] Init responses DB
+[2023-07-27 08:05:05.821] [info]  [db] Init websocket-responses DB
+[2023-07-27 08:05:05.832] [info]  [localstorage] Initialized at /home/blacky/.config/Insomnia/localStorage
+[2023-07-27 08:05:05.945] [info]  [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+[2023-07-27 08:05:06.478] [info]  [updater] Updater not running platform=linux dev=false
+[2023-07-27 08:05:08.606] [info]  [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+[2023-07-27 08:05:11.379] [info]  [response] Delete body 
+[2023-07-27 08:05:11.380] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/ee749803-0381-4d23-b427-1dffd9b4d466.timeline
+[2023-07-27 08:05:13.131] [info]  [response] Delete body 
+[2023-07-27 08:05:13.132] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/76d11760-ba62-497b-a9c7-dc99da61402b.timeline
+[2023-07-27 08:05:19.717] [info]  [response] Delete body 
+[2023-07-27 08:05:19.718] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/2097043b-5b20-4c16-b5ef-80079163dc87.timeline
+[2023-07-27 08:07:37.506] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/78f546f5-5b2c-44a7-b539-d683dd2f0a08.response
+[2023-07-27 08:07:37.508] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/474e96a2-6de9-4708-9fb7-4f6b7875efb8.timeline
+[2023-07-27 08:07:39.985] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/46cdabf4-8da7-4ea0-9e3e-4813e8bc4653.response
+[2023-07-27 08:07:39.985] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/b27fe982-bc45-4139-a6f5-70ad90514031.timeline
+[2023-07-27 08:08:23.472] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/61dbec90-799e-4035-b67a-b4cb8939c7cc.response
+[2023-07-27 08:08:23.472] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/3e4c9e47-a035-408a-a4d6-944ca5b555d3.timeline
+[2023-07-27 08:08:24.734] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/022e5a4f-d93d-45c1-815a-72e5a3060480.response
+[2023-07-27 08:08:24.735] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/21693ff6-3abf-426a-a84a-20bd47b21c37.timeline
+[2023-07-27 08:08:25.041] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/078901ec-60a5-4f8a-af24-e4931aa47707.timeline
+[2023-07-27 08:08:25.041] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/20ab0deb-dc71-453b-96b7-b3f7a3070e21.response
+[2023-07-27 08:08:28.138] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/b34bc665-ee35-4939-9fde-d401eee1ca87.response
+[2023-07-27 08:08:28.138] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/65938bf4-6fcc-43c7-8664-5ecce5f1e7a0.timeline
+[2023-07-27 08:08:31.224] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/3c640bbd-9867-4e91-92c1-2c7b13a69430.response
+[2023-07-27 08:08:31.225] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/53ced649-2a18-4e9d-9f4f-112850191264.timeline
+[2023-07-27 08:08:37.361] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/968a770e-ca25-4684-941f-cccedda640ef.response
+[2023-07-27 08:08:37.362] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/08397120-800d-4e7c-806e-1da31d1dd5e1.timeline
+[2023-07-27 08:08:38.338] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/6e5b49d5-1af5-4833-bf45-6ebb8318f916.response
+[2023-07-27 08:08:38.339] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/e89f0a6d-e465-4d51-b1ee-fd5e82a740b5.timeline
+[2023-07-27 08:08:39.174] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/4516e110-9f6d-4002-a7a7-44615a6916a3.response
+[2023-07-27 08:08:39.177] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/48bc7386-8e42-4217-be03-b84586ff9f51.timeline
+[2023-07-27 08:08:52.143] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/1b2de6f4-dbdd-4fa6-a476-4725facb508f.timeline
+[2023-07-27 08:08:52.144] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/dee240a7-112c-449f-a405-3d9f136962c6.response
+[2023-07-27 08:08:57.059] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/e378f906-a031-489a-b6b8-fa2ea4ea871c.timeline
+[2023-07-27 08:08:57.060] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/12b3f476-ad50-4122-9bd8-47596a1c1829.response
+[2023-07-27 08:08:59.932] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/10425fc4-88c5-49ea-bd94-d293a0f66692.response
+[2023-07-27 08:08:59.933] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/a98ff30c-d807-4aff-98a4-665342741054.timeline
+[2023-07-27 08:09:16.267] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/9e493815-b414-473d-9589-d0ec5a6e7952.response
+[2023-07-27 08:09:16.268] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/3ba6f284-07b0-4bbf-b25f-aee96625f414.timeline
+[2023-07-27 08:09:17.253] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/9aaf3ec8-3e89-48df-96fc-b54613007ba5.response
+[2023-07-27 08:09:17.254] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/0313a961-4870-49ff-9ded-60adc7131471.timeline
+[2023-07-27 08:09:18.330] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/ffad26a8-db9a-4604-8e96-d44beddd66fc.timeline
+[2023-07-27 08:09:18.330] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/9e44686b-74f7-49d1-877c-674cb260f875.response
+[2023-07-27 08:09:20.476] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/146e8ec3-59d8-4a0d-bf46-fac879aac8e5.response
+[2023-07-27 08:09:20.476] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/4d692c59-4db9-4665-817b-826641fb37a1.timeline
+[2023-07-27 08:11:07.502] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/259ca70b-d6bb-4521-b9ec-b27a7223ea78.response
+[2023-07-27 08:11:07.503] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/25e46d93-24fa-4d8f-9bf4-bce3e3e36e1c.timeline
+[2023-07-27 08:11:08.307] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/38d50ee9-84f3-4f6a-ab71-d86efd48403e.response
+[2023-07-27 08:11:08.308] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/e02a1171-5e54-48d6-b3cf-e75d90a6d7af.timeline
+[2023-07-27 08:11:08.702] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/68ba35ca-b936-4a4b-9d78-59a2ababfebf.response
+[2023-07-27 08:11:08.703] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/67360780-c746-4bc7-9f7d-05e89a130d69.timeline
+[2023-07-27 08:11:08.830] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/5df27072-3512-480e-a706-cf11ca3997d4.response
+[2023-07-27 08:11:08.830] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/03a14cf3-9e36-46ef-90fd-4b8dda3d6394.timeline
+[2023-07-27 08:11:24.076] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/326b814b-e3ca-490c-9096-ef8477e66a8e.response
+[2023-07-27 08:11:24.077] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/b2b3d1ba-4abf-4927-9db3-c547a06560cc.timeline
+[2023-07-27 08:11:30.728] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/860dc4bb-9617-493e-9304-fb943da6e9c1.response
+[2023-07-27 08:11:30.728] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/2f858af9-9efe-4098-be6c-016608f1a9e6.timeline
+[2023-07-27 08:14:22.104] [info]  [response] Delete body 
+[2023-07-27 08:14:22.104] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/16c0d145-14d5-478d-be23-42f8bc30ef65.timeline
+[2023-07-27 08:14:23.123] [info]  [response] Delete body 
+[2023-07-27 08:14:23.124] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/80bc9290-fc13-4b90-b16b-1b4fa5c1e79c.timeline
+[2023-07-27 08:14:31.882] [info]  [response] Delete body 
+[2023-07-27 08:14:31.883] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d50b7029-03de-4ac6-a316-2f6f5b370567.timeline
+[2023-07-27 08:14:38.442] [info]  [response] Delete body 
+[2023-07-27 08:14:38.442] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d14ee96e-818b-48ad-a290-0a6a71859458.timeline
+[2023-07-27 08:16:54.794] [info]  [response] Delete body 
+[2023-07-27 08:16:54.795] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/a77f9c2b-26d6-40f1-b3ca-de78805397c6.timeline
+[2023-07-27 08:16:58.665] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/97470fad-1b9d-4d08-b422-3fa426f3d608.timeline
+[2023-07-27 08:16:58.665] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/c9fe6f6d-bc54-471b-858e-8610364a513a.response
+[2023-07-27 08:21:25.052] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/142f639a-326a-4be6-8892-bbeb82d9a7e1.response
+[2023-07-27 08:21:25.053] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/fd14aaa8-4f62-4876-8e6d-d1736809e162.timeline
+[2023-07-27 08:23:02.498] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/3c72b559-12a7-4ebe-8ca3-e90136bc6164.response
+[2023-07-27 08:23:02.498] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d51c48a5-2890-4950-9652-3a16ee2df29e.timeline
+[2023-07-27 09:15:40.308] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/b8629bbd-8ce8-422a-91a8-2591a618ab15.response
+[2023-07-27 09:15:40.309] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/65737b94-6d7f-42c1-88e9-2006785ac4f2.timeline
+[2023-07-27 09:15:41.391] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d1cdf090-2a91-434b-b50d-de2f625567a5.timeline
+[2023-07-27 09:15:41.392] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/484a9a57-c62f-428d-bb06-6a0c3b90607f.response
+[2023-07-27 10:27:34.860] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d8defd2b-5b44-4e89-84f3-d39d41b0d04c.timeline
+[2023-07-27 10:27:34.861] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/95c508d1-1916-4a0a-a679-30c3a66c5173.response
+[2023-07-27 10:30:56.609] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/e794d556-91c9-4032-b9ce-de7fd1793531.response
+[2023-07-27 10:30:56.609] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/4389d3ca-a441-4a73-9002-9205ca4813d7.timeline
+[2023-07-27 10:31:00.370] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/2b903657-5564-40ee-b928-09b9f3ff7a04.timeline
+[2023-07-27 10:31:00.370] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/bd8be484-a68f-49db-941f-a8544ff1d2cd.response
+[2023-07-27 10:31:01.329] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/416cefa1-9fbf-4684-aef9-9cb371f023ee.response
+[2023-07-27 10:31:01.329] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/3179b8ab-cba4-4eaf-9b3e-b27a62c1cdf3.timeline
+[2023-07-27 10:31:12.141] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/a43d6a45-5780-4f84-8fcd-cdd2a447407f.response
+[2023-07-27 10:31:12.144] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/14ab8f43-7eea-4b30-af8f-1c9e8227c720.timeline
+[2023-07-27 10:35:52.080] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/c6de00d1-cc44-4259-99e0-6c0b910ffc71.response
+[2023-07-27 10:35:52.081] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/63a5a244-7562-4376-b1ea-b34866bb99e6.timeline
+[2023-07-27 10:36:19.645] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/a5cf7fba-5d2d-4414-85a5-402f311fabef.timeline
+[2023-07-27 10:36:19.646] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/a6034884-1d99-428d-a085-6b9e03266c82.response
+[2023-07-27 10:36:40.189] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/7dd0c859-b262-426a-9469-54dc81d55770.response
+[2023-07-27 10:36:40.190] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/10fe3e0b-959d-46a4-8ba7-02123d6b7e02.timeline
+[2023-07-27 10:36:52.613] [info]  [db] Delete hook failed for remove res_6680649ed1c042ef9a5bfa3081151c13: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:38:08.740] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/24faff67-6f36-447e-b4fa-c745f43c21aa.timeline
+[2023-07-27 10:38:08.740] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/1f5f08e8-b6cd-44e9-8a4d-451cdc4361bb.response
+[2023-07-27 10:39:19.241] [info]  [db] Delete hook failed for remove res_30fe66575cc94ed88f60d44e82d1cc1f: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:39:20.814] [info]  [db] Delete hook failed for remove res_c68b50f98d2a45c8961174f037ca8a9c: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:39:39.335] [info]  [db] Delete hook failed for remove res_ca222cc5ba1a44bd98a291260c9ea731: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:42:39.657] [info]  [db] Delete hook failed for remove res_9e391179c2564b45aa17048ebe780fff: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:42:40.689] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/ea1dfcfd-0005-4d5a-903c-df56f84ed461.response
+[2023-07-27 10:42:40.690] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/50ec86f1-7141-4063-917b-85b929228744.timeline
+[2023-07-27 10:42:42.864] [info]  [db] Delete hook failed for remove res_c2c376d41b624f78a5c3789c4b5bf39d: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:42:43.066] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/f448a00f-db53-4bdd-8044-58944705e351.timeline
+[2023-07-27 10:42:43.067] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/6ba61011-8428-4195-9692-c43305a6ff53.response
+[2023-07-27 10:42:43.203] [info]  [db] Delete hook failed for remove res_2ded30c017184bd297de34f59eac83c7: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:42:43.948] [info]  [db] Delete hook failed for remove res_146cf5c588d44565a69dbc9b1da5bfa3: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:49:57.249] [info]  [db] Delete hook failed for remove res_393a5fe52b0a4e60b8b212961e501984: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:49:58.488] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/eca198a7-2369-45cd-94e0-c0c77e6cceee.response
+[2023-07-27 10:49:58.489] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/e381deed-89cd-4515-aad1-133b883c281b.timeline
+[2023-07-27 10:50:25.128] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/6ca358ab-91e8-4e87-b099-8bb9ae19551b.response
+[2023-07-27 10:50:25.128] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/8d17262f-4e4b-4a52-9ced-5826d0ce469e.timeline
+[2023-07-27 10:50:25.988] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/f526b2bd-ba68-44f4-9e49-67fd651a43df.timeline
+[2023-07-27 10:50:25.989] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/554ca104-626e-4ddc-ba6c-93cb4bb284c1.response
+[2023-07-27 10:50:27.257] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/03f6eb1a-812b-4ebd-a6b7-97631b362401.response
+[2023-07-27 10:50:27.257] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/d0c58955-5f2f-466d-9b36-44bbc836d38f.timeline
+[2023-07-27 10:50:28.235] [info]  [db] Delete hook failed for remove res_58cdc830672b4a54a74fa4bc402128b2: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:02.512] [info]  [db] Delete hook failed for remove res_90c4fd7189724a538478e464aa2e4fbd: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:02.514] [info]  [db] Delete hook failed for remove res_19fb34a70fb54397ac1d14c595e19a57: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:02.515] [info]  [db] Delete hook failed for remove res_0c57474c8ab843cfb293f6c37eb0ad14: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:02.516] [info]  [db] Delete hook failed for remove res_f946db499eac4641997dfedf3eb27c6e: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:02.518] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/968b2016-b8c0-44b1-abe3-119b8c7c66f6.timeline
+[2023-07-27 10:51:02.518] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/514018bb-e0e4-45ca-9949-8b0627f37e0a.response
+[2023-07-27 10:51:02.519] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/054f89c9-3ae1-4017-bf5c-fe6457c6a121.response
+[2023-07-27 10:51:02.520] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/54ba110f-cd53-48f9-bfd4-46be260feabf.timeline
+[2023-07-27 10:51:05.045] [info]  [db] Delete hook failed for remove res_fa39c73f982749c8972bda0550b16106: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.045] [info]  [db] Delete hook failed for remove res_03e7d51f9d0245689fddbdc41dc762b0: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.046] [info]  [db] Delete hook failed for remove res_0954b2284efd4133a1bd4ca1af95fe5e: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.046] [info]  [db] Delete hook failed for remove res_78b6975929014e27949fc141bc63654c: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.046] [info]  [db] Delete hook failed for remove res_48862578f99d489fb4defe227f346436: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.046] [info]  [db] Delete hook failed for remove res_c2fac84f5e324ad8a5827f67b12180a4: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.047] [info]  [db] Delete hook failed for remove res_e1188ec4d18f4c3fb902ab1261b65846: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.047] [info]  [db] Delete hook failed for remove res_ca903f8ea757458b936c3586beee5433: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 10:51:05.048] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/cb3b9fdb-8b8c-47ff-9c4b-c31e47b24495.response
+[2023-07-27 10:51:05.048] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/153409cd-b5c0-4c47-8c85-1b737e7cf620.timeline
+[2023-07-27 10:51:05.048] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/b26545cd-11d5-4bbd-a384-27fc1be01509.response
+[2023-07-27 10:51:05.048] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/de90f7b3-d273-4869-9d01-d91872361fe8.timeline
+[2023-07-27 10:51:05.049] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/9eb6e163-cc96-477d-825f-456211ca1b46.response
+[2023-07-27 10:51:05.049] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/8f0d47f0-e82a-4998-89ec-b7fd49e2c3ab.timeline
+[2023-07-27 10:51:05.050] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/062fe7c4-02a1-4fb9-ba8a-0c950280b4ac.response
+[2023-07-27 10:51:05.050] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/015e4e0b-856f-4b41-b0d3-c2143d289961.timeline
+[2023-07-27 10:51:05.050] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/c152e920-9989-490f-bc3d-cc26201e60ed.response
+[2023-07-27 10:51:05.050] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/9a24a965-8ef7-4c0f-ae26-cbf01b352b1c.timeline
+[2023-07-27 10:51:05.051] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/a0fa80af-e2eb-4812-ad02-7bed403869d5.response
+[2023-07-27 10:51:05.051] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/e7e2df98-b12e-4da4-86f3-47829b1efe95.timeline
+[2023-07-27 10:51:05.051] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/0e510af4-e57e-4184-951e-68bc53a663bb.response
+[2023-07-27 10:51:05.052] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/7b562177-dcbe-4ef0-a141-933f4b72f20d.timeline
+[2023-07-27 10:51:05.052] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/41ec7062-a8e2-400e-9cf5-e5dac5ec8a62.response
+[2023-07-27 10:51:05.052] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/a3150ea1-dfa9-44d3-98f3-be620a4caa4c.timeline
+[2023-07-27 10:51:05.052] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/e26f7035-4a10-4d8e-9017-4a73737fa8c5.response
+[2023-07-27 10:51:05.053] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/aac3020f-fc1d-4ef2-b56a-d960281607a9.timeline
+[2023-07-27 10:51:05.053] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/02b4d5e5-a435-4166-97e8-2f0c3ae6e430.response
+[2023-07-27 10:51:05.053] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/19043dcf-5651-4daa-be1a-7c7274d0f2a4.timeline
+[2023-07-27 10:51:05.053] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/bb9054e3-2c5e-4b1a-ac93-887db6d25928.response
+[2023-07-27 10:51:05.054] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/4ac86fc3-ac04-4c0c-abcf-265f98a7f220.timeline
+[2023-07-27 10:51:05.054] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/a32f9fd2-b905-472c-b946-f57843ce0f7d.response
+[2023-07-27 10:51:05.054] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/95a1d7c4-a12e-465a-8414-08cb167ac900.timeline
+[2023-07-27 10:51:05.054] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/f5bc8610-3d74-454e-b926-980d6aeb8d66.response
+[2023-07-27 10:51:05.055] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/011989b0-eb9e-4f23-aaf1-32e2e910bc83.timeline
+[2023-07-27 11:05:06.488] [info]  [updater] Updater not running platform=linux dev=false
+[2023-07-27 11:25:29.712] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/a990d0a6-8c86-425a-b49f-940215a8c624.response
+[2023-07-27 11:25:29.714] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/dc2f764d-bb72-4ef0-942b-4564ce58e6d7.timeline
+[2023-07-27 11:25:30.498] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/3108b0a6-efff-4d5c-914d-9fec82549f43.response
+[2023-07-27 11:25:30.499] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/2d6541c0-20a9-4947-870c-f87da938f780.timeline
+[2023-07-27 11:25:31.199] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/39bfe032-2a7d-4a3a-83ff-c0469ef936f7.response
+[2023-07-27 11:25:31.201] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/b3af14fa-7250-47fd-bd7e-20e524147d48.timeline
+[2023-07-27 11:25:31.928] [info]  [response] Delete body /home/blacky/.config/Insomnia/responses/94a22621-2e38-49d0-80ee-2b624e77cc9f.response
+[2023-07-27 11:25:31.929] [info]  [response] Delete timeline /home/blacky/.config/Insomnia/responses/9db96b72-3311-43bb-ad2c-cc0f30f2eba1.timeline
+[2023-07-27 11:27:07.761] [info]  [db] Delete hook failed for remove res_9ddc4a538e934916a4956366bcf3183d: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 11:27:08.804] [info]  [db] Delete hook failed for remove res_1bcf38415a914d2289cb9f253fc20d63: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 11:27:09.648] [info]  [db] Delete hook failed for remove res_2bf40b528b914d12ac0320fab21d376b: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-07-27 11:29:26.512] [info]  [db] Delete hook failed for remove res_2797a02509354470b10b2aa1d9357c90: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined

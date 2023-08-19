@@ -1,4 +1,0 @@
-# Next Line is add to end on Dockerfile in container dev
-
-# Install Git
-RUN apt-get install git

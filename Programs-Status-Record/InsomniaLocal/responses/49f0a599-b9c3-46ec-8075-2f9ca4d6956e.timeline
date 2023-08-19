@@ -1,0 +1,42 @@
+[
+	{
+		"value": "Preparing request to http://pokedexapp:3000/api/v2/pokemon",
+		"name": "Text",
+		"timestamp": 1690463257447
+	},
+	{
+		"value": "Current time is 2023-07-27T13:07:37.447Z",
+		"name": "Text",
+		"timestamp": 1690463257447
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690463257447
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690463257449
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690463257449
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690463257449
+	},
+	{
+		"name": "Text",
+		"value": "Could not resolve host: pokedexapp\n",
+		"timestamp": 1690463257451
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 3\n",
+		"timestamp": 1690463257451
+	}
+]

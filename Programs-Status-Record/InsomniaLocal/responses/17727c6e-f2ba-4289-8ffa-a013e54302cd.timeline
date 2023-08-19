@@ -1,0 +1,77 @@
+[
+	{
+		"value": "Preparing request to http://localhost:3000/api/v2/pokemon",
+		"name": "Text",
+		"timestamp": 1690306240467
+	},
+	{
+		"value": "Current time is 2023-07-25T17:30:40.467Z",
+		"name": "Text",
+		"timestamp": 1690306240467
+	},
+	{
+		"value": "Enable automatic URL encoding",
+		"name": "Text",
+		"timestamp": 1690306240467
+	},
+	{
+		"value": "Using default HTTP version",
+		"name": "Text",
+		"timestamp": 1690306240468
+	},
+	{
+		"value": "Enable timeout of 30000ms",
+		"name": "Text",
+		"timestamp": 1690306240468
+	},
+	{
+		"value": "Enable SSL validation",
+		"name": "Text",
+		"timestamp": 1690306240468
+	},
+	{
+		"name": "Text",
+		"value": "Connection 4 seems to be dead!\n",
+		"timestamp": 1690306240469
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 4\n",
+		"timestamp": 1690306240469
+	},
+	{
+		"name": "Text",
+		"value": "Hostname in DNS cache was stale, zapped\n",
+		"timestamp": 1690306240469
+	},
+	{
+		"name": "Text",
+		"value": "  Trying 127.0.0.1:3000...\n",
+		"timestamp": 1690306240469
+	},
+	{
+		"name": "Text",
+		"value": "connect to 127.0.0.1 port 3000 failed: Connection refused\n",
+		"timestamp": 1690306240471
+	},
+	{
+		"name": "Text",
+		"value": "  Trying ::1:3000...\n",
+		"timestamp": 1690306240471
+	},
+	{
+		"name": "Text",
+		"value": "connect to ::1 port 3000 failed: Connection refused\n",
+		"timestamp": 1690306240472
+	},
+	{
+		"name": "Text",
+		"value": "Failed to connect to localhost port 3000 after 2 ms: Connection refused\n",
+		"timestamp": 1690306240472
+	},
+	{
+		"name": "Text",
+		"value": "Closing connection 5\n",
+		"timestamp": 1690306240472
+	}
+]
